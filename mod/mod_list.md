@@ -18,7 +18,7 @@
 
 |名前|バージョン|docsFile|めも|
 |:---|:---|:---|:---|
-|SpongeForge|1.12.2-2838-7.4.7|[docs](/docs/mods/SpongeForge/index.html)| |
+|SpongeForge|1.12.2-2838-7.4.7|[docs](/docs/mods/SpongeForge.md)| |
 
 ## クライアントだけのもっも！
 
