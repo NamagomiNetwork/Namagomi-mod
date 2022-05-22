@@ -7,7 +7,7 @@
 - [`server-files`](./server-files/)
     - サーバーのファイルを管理しています
 
-- [`docs`](./server-files/)
+- [`docs`](./docs/)
     - ドキュメントです
     - 一応ルールや参加方法をまとめています
 
