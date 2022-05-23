@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/3438487
 - LICENCE: MIT License
 - Project ID: 254602
-- 前提mod: N/A
+- 前提mod: Shadowfacts' Forgelin
 - 依存mod: Industrial Foregoing
 
 ## このもっもは何をするんですか？
