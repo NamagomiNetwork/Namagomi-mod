@@ -64,7 +64,7 @@
 |OpenModsLib|[1.12.2-0.12.2](https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)|228815| |OpenBlocksの前提|
 |Pam's HarvestCraft|[1.12.2zg](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2904825)|221857| | |
 |Quark|[r1.6-179](https://www.curseforge.com/minecraft/mc-mods/quark/files/2924091)|243121| | |
-|AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |Quarkの前提|
+|AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |Quark・Morph-o-Toolの前提|
 |Refined Storage|[1.6.16](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2940914)|243076| | |
 |Sakura|[1.0.8-1.12.2+flavored.ksrg.4](https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar)|N/A| |[本家](https://www.curseforge.com/minecraft/mc-mods/sakura/files/3254753)からのフォーク|
 |SlashBlade|[mc1.12-r33](https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993)|241596| | |
