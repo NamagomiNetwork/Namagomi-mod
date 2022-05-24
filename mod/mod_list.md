@@ -9,11 +9,11 @@
 - [forge1.12.2#2860](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 ## クライアント・サーバー共通もっも！
 
-|名前|バージョン|Project ID|docsFile|めも|
-|:---|:---|:---|:---|:---|
+|名前|バージョン|Project ID|docsFile|めも|要Config調整|
+|:---|:---|:---|:---|:---|:---:|
 |AppleSkin|[1.12-1.0.14](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247)|248787| | |
 |Aroma1997Core|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2676866)|223735| |Aroma1997s Dimensional Worldの前提|
-|Aroma1997s Dimensional World|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2672438)|60092| | |
+|Aroma1997s Dimensional World|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2672438)|60092| | |◯|
 |AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |Quark・Morph-o-Toolの前提|
 |Avaritia 1.1x|[1.12.2-3.3.0.37](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10/files/3143349)|261348| | |
 |Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| | |
@@ -35,7 +35,7 @@
 |Extra Utilities 2|[1.12-1.9.9](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)|225561| | |
 |Farming for Blockheads|[1.12.2-3.1.28](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/files/2733508)|261924| | |
 |FastFurnace|[1.12.2-1.3.1](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/2706111)|299540| | |
-|FTB Ultimine|[1202.3.5](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/3078750)|386134| | |
+|FTB Ultimine|[1202.3.5](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/3078750)|386134| | |◯|
 |GunpowderLib|[1.12.2-1.1](https://www.curseforge.com/minecraft/mc-mods/gunpowderlib/files/3168863)|356646| |Integration Foregoingの前提|
 |Hwyla|[1.8.26-B41_1.12.2](https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751)|253449| | |
 |Immersive Engineering|[0.12-98](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2974106)|231951| | |
@@ -50,12 +50,12 @@
 |Just Enough Calculation|[1.12.2-3.2.7](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685)|242223| | |
 |Just Enough Resources (JER)|[1.12.2-0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)|240630| | |
 |LagGoggles|[1.12.2-5.8-132](https://www.curseforge.com/minecraft/mc-mods/laggoggles/files/2947622)|283525| | |
-|McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files)|260599| | |
+|McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files)|260599| | |◯|
 |Mekanism|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism/files/2835175)|268560| | |
 |Mekanism Generators|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)|268566| | |
 |Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| | |
 |Morph-o-Tool|[1.2-21](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176)|245287| | |
-|Morpheus|[1.12.2-3.5.106](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449)|69118| | |
+|Morpheus|[1.12.2-3.5.106](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449)|69118| | |◯|
 |MrCrayfish's Furniture Mod|[6.3.1-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993)|55438| | |
 |Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |TofuCraftReloadの前提|
 |Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| | |
@@ -63,7 +63,7 @@
 |OpenBlocks|[1.12.2-1.8.1](https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056)|228816| | |
 |OpenModsLib|[1.12.2-0.12.2](https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)|228815| |OpenBlocksの前提|
 |Pam's HarvestCraft|[1.12.2zg](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2904825)|221857| | |
-|Quark|[r1.6-179](https://www.curseforge.com/minecraft/mc-mods/quark/files/2924091)|243121| | |
+|Quark|[r1.6-179](https://www.curseforge.com/minecraft/mc-mods/quark/files/2924091)|243121| | |◯|
 |Refined Storage|[1.6.16](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2940914)|243076| | |
 |Sakura|[1.0.8-1.12.2+flavored.ksrg.4](https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar)|N/A| |[本家](https://www.curseforge.com/minecraft/mc-mods/sakura/files/3254753)からのフォーク|
 |Shadowfacts' Forgelin|[1.8.3](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2727070)|248453| |Tesla Core Libの前提|
