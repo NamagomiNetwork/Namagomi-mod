@@ -1,0 +1,15 @@
+# mod詳細
+
+- もっも名: SlashBlade
+- もっものバージョン: mc1.12-r33
+- DLリンク: https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993
+- LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993)
+- Project ID: 241596
+- 前提mod: N/A
+- 依存mod: N/A
+
+## このもっもは何をするんですか？
+なんかつよそう
+
+## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/slashblade
