@@ -16,11 +16,11 @@
 |Aroma1997s Dimensional World|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2672438)|60092| | |◯|
 |AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |`Morph-o-Tool`・`Quark`の前提|
 |Avaritia 1.1x|[1.12.2-3.3.0.37](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10/files/3143349)|261348| | |
-|Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| | |
+|Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| |`Avaritia 1.1x`のアドオン|
 |Avaritia Furnace|[1.0.0-1.12.2](https://www.curseforge.com/minecraft/mc-mods/avaritia-furnace/files/3097230)|416599| | 
 |Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Baubles|[1.12-1.5.2](https://www.curseforge.com/minecraft/mc-mods/baubles/files/2518667)|227083| | |
-|Baublelicious|[1.4.0-4](https://www.curseforge.com/minecraft/mc-mods/baublelicious/files/2532880)|223951| | |
+|Baublelicious|[1.4.0-4](https://www.curseforge.com/minecraft/mc-mods/baublelicious/files/2532880)|223951| |`Baubles`のアドオン|
 |BetterFps|[1.4.8](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)|229876| | |
 |Chameleon|[1.12-4.1.3](https://www.curseforge.com/minecraft/mc-mods/chameleon/files/2450900)|230497| |`StorageDrawers`の前提|
 |Clumps|[3.1.2](https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198)|256717| | |
@@ -41,24 +41,24 @@
 |Immersive Engineering|[0.12-98](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2974106)|231951| | |
 |Industrial Foregoing|[1.12.2-1.12.13-237](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing/files/2745321)|266515| | |
 |Integrated Dynamics|[1.12.2-1.1.11](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/3159505)|236307| | |
-|Integrated Tunnels|[1.12.2-1.6.14](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/3159511)|251389| | |
-|Integration Foregoing|[1.12.2-1.11](https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/files/3200529)|277938| | |
+|Integrated Tunnels|[1.12.2-1.6.14](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/3159511)|251389| |`Integrated Dynamics`のアドオン|
+|Integration Foregoing|[1.12.2-1.11](https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/files/3200529)|277938| |`Industrial Foregoing`のアドオン|
 |Iron Chests|[1.12.2-7.0.72.847](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935)|228756| | |
-|JEI Integration|[1.12.2-1.6.0](https://www.curseforge.com/minecraft/mc-mods/jei-integration/files/2951731)|265917| | |
+|JEI Integration|[1.12.2-1.6.0](https://www.curseforge.com/minecraft/mc-mods/jei-integration/files/2951731)|265917| |`Just Enough Items (JEI)`のアドオン|
 |JourneyMap|[1.12.2-5.7.1](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002)|32274| | |
 |Just Enough Items (JEI)|[1.12.2-4.16.1.302](https://www.curseforge.com/minecraft/mc-mods/jei/files/3043174)|238222| | |
-|Just Enough Calculation|[1.12.2-3.2.7](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685)|242223| | |
-|Just Enough Resources (JER)|[1.12.2-0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)|240630| | |
+|Just Enough Calculation|[1.12.2-3.2.7](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685)|242223| |`Just Enough Items (JEI)`のアドオン|
+|Just Enough Resources (JER)|[1.12.2-0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)|240630| |`Just Enough Items (JEI)`のアドオン|
 |LagGoggles|[1.12.2-5.8-132](https://www.curseforge.com/minecraft/mc-mods/laggoggles/files/2947622)|283525| | |
 |McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files)|260599| | |◯|
 |Mekanism|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism/files/2835175)|268560| | |
-|Mekanism Generators|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)|268566| | |
-|Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| | |
+|Mekanism Generators|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)|268566| |`Mekanism`のアドオン|
+|Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| |`Mekanism`のアドオン|
 |Morph-o-Tool|[1.2-21](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176)|245287| | |
 |Morpheus|[1.12.2-3.5.106](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449)|69118| | |◯|
 |MrCrayfish's Furniture Mod|[6.3.1-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993)|55438| | |
 |Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |`TofuCraftReload`の前提|
-|Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| | |
+|Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| |`Mystical Agriculture`のアドオン|
 |Mystical Agriculture|[1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2704562)|246640| | |
 |OpenBlocks|[1.12.2-1.8.1](https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056)|228816| | |
 |OpenModsLib|[1.12.2-0.12.2](https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)|228815| |`OpenBlocks`の前提|
@@ -78,7 +78,7 @@
 |TofuCraftReload|[0.1.0.9](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload/files/3115668)|317469| | |
 |Unloader|[1.2.0](https://www.curseforge.com/minecraft/mc-mods/unloader/files/2572528)|286230| | |
 |WanionLib|[1.12.2-2.9](https://www.curseforge.com/minecraft/mc-mods/wanionlib/files/3597087)|253043| |`Avaritiaddons`の前提|
-|Wawla - What Are We Looking At|[1.12.2-2.6.275](https://www.curseforge.com/minecraft/mc-mods/wawla/files/2916368)|224712| | |
+|Wawla - What Are We Looking At|[1.12.2-2.6.275](https://www.curseforge.com/minecraft/mc-mods/wawla/files/2916368)|224712| |`Hwyla`のアドオン|
 |Yet Another Recipe Conflict Fixer (YARCF)|[v0.14](https://www.curseforge.com/minecraft/mc-mods/yarcf/files/3310627)|482566| | |
 
 ## サーバーだけのもっも！
@@ -108,5 +108,5 @@
 |ReAuth|[1.12-4.0.0](https://www.curseforge.com/minecraft/mc-mods/reauth/files/3784942)|237701| | |
 |SignPicture|[1.12.1-2.8.1](https://www.curseforge.com/minecraft/mc-mods/signpicture/files/2464981)|250822| | |
 |SpawnChecker|[2.7.7.137](https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1)|N/A| | |
-|Waila Harvestability|[mc1.12-1.1.12](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)|79287| | |
+|Waila Harvestability|[mc1.12-1.1.12](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)|79287| |`Hwyla`のアドオン|
 |xaero-map-null-potion|[1.0.2](https://github.com/KisaragiEffective/publicfile/blob/master/xaero-map-null-potion-1.0.2.jar?raw=true)|N/A| |ダミーmod。Xaero'sシリーズのマップmodを使用する際は構成から抜く必要あり！|
