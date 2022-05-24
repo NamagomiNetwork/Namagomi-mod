@@ -12,4 +12,4 @@
 Mekanismのアドオン
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178
+https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/
