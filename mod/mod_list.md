@@ -56,8 +56,8 @@
 |Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| |`Mekanism`のアドオン|
 |Morph-o-Tool|[1.2-21](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176)|245287| | |
 |Morpheus|[1.12.2-3.5.106](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449)|69118| | |◯|
-|MrCrayfish's Furniture Mod|[6.3.1-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993)|55438| | |
-|Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |`TofuCraftReload`の前提|
+|MrCrayfish's Furniture Mod|[6.3.1-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993)|55438| | |◯|
+|Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |`TofuCraftReload`の前提|◯|
 |Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| |`Mystical Agriculture`のアドオン|
 |Mystical Agriculture|[1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2704562)|246640| | |
 |OpenBlocks|[1.12.2-1.8.1](https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056)|228816| | |
