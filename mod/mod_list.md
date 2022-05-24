@@ -22,6 +22,7 @@
 |Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Baubles|[1.12-1.5.2](https://www.curseforge.com/minecraft/mc-mods/baubles/files/2518667)|227083| | |
 |Baublelicious|[1.4.0-4](https://www.curseforge.com/minecraft/mc-mods/baublelicious/files/2532880)|223951| | |
+|BetterFps|[1.4.8](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)|229876| | |
 |Clumps|[3.1.2](https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198)|256717| | |
 |Compact Machines|[1.12.2-3.0.18-b278](https://www.curseforge.com/minecraft/mc-mods/compact-machines/files/2707509)|224218| | |
 |Cooking for Blockheads|[1.12.2-6.5.0](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2862651)|231484| | |
