@@ -293,13 +293,6 @@
         "mc-version": "1.12.2"
     },
     {
-        "name": "Optifine",
-        "mod-id": null,
-        "mc-version": "1.12.2",
-	"direct-url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar",
-	"side": "CLIENT"
-    },
-    {
         "name": "Pam's HarvestCraft",
         "mod-id": 221857,
         "mc-version": "1.12.2"
