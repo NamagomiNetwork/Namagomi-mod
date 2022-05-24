@@ -9,7 +9,7 @@
 |name|string|mod名のメモ書き|任意|
 |mod-id|int|projectIdとも言う|必須|
 |mc-version|string|Minecraftのバージョン|必須|
-|mod-version|string|modのバージョン。最新版は`latest`。ない場合は最新版が指定される|任意|
+|mod-version|string|modのバージョン。ない場合は最新版が指定される|任意|
 |direct-url|string|curseforge以外の場所にある場合はここに直リンクを記入|任意|
 |side|string|クライアントmodは`CLIENT`、サーバー側modは`SERVER`、どっちもだったら何もしない|任意|
 
