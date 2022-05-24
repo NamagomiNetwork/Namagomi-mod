@@ -1,0 +1,441 @@
+[
+    {
+        "name": "AppleSkin",
+        "mod-id": 248787,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Aroma1997Core",
+        "mod-id": 223735,
+        "mc-version": "1.12.2",
+	"mod-version": "1.12.2-2.0.0.2"
+    },
+    {
+        "name": "Aroma1997s Dimensional World",
+        "mod-id": 60092,
+        "mc-version": "1.12.2",
+	"mod-version": "1.12.2-2.0.0.2"
+    },
+    {
+        "name": "AutoRegLib",
+        "mod-id": 250363,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Avaritia 1.1x",
+        "mod-id": 261348,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Avaritiaddons",
+        "mod-id": 248873,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Avaritia Furnace",
+        "mod-id": 416599,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Bad Wither No Cookie - Reloaded",
+        "mod-id": 261251,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Baubles",
+        "mod-id": 227083,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Baublelicious",
+        "mod-id": 223951,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "BetterFps",
+        "mod-id": 229876,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Chameleon",
+        "mod-id": 230497,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Clumps",
+        "mod-id": 256717,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "CodeChicken Lib 1.8.+",
+        "mod-id": 242818,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Common Capabilities",
+        "mod-id": 247007,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Compact Machines",
+        "mod-id": 224218,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Controlling",
+        "mod-id": 250398,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "Cooking for Blockheads",
+        "mod-id": 231484,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "CraftTweaker",
+        "mod-id": 239197,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Cucumber Library",
+        "mod-id": 272335,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Cyclic",
+        "mod-id": 239286,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Cyclops Core",
+        "mod-id": 232758,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "ExtendPolyphonyLimit",
+        "mod-id": 278844,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "Extra Utilities 2",
+        "mod-id": 225561,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Farming for Blockheads",
+        "mod-id": 261924,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "FastFurnace",
+        "mod-id": 299540,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Fast Leaf Decay",
+        "mod-id": 230976,
+        "mc-version": "1.12.2",
+	"side": "SERVER"
+    },
+    {
+        "name": "FPS Reducer",
+        "mod-id": 280294,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "FTB Ultimine",
+        "mod-id": 386134,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "GunpowderLib",
+        "mod-id": 356646,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Hwyla",
+        "mod-id": 253449,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Immersive Engineering",
+        "mod-id": 231951,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Industrial Foregoing",
+        "mod-id": 266515,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Integrated Dynamics",
+        "mod-id": 236307,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Integrated Tunnels",
+        "mod-id": 251389,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Integration Foregoing",
+        "mod-id": 277938,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Inventory Tweaks",
+        "mod-id": 223094,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "Iron Chests",
+        "mod-id": 228756,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "JEI Integration",
+        "mod-id": 265917,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "JourneyMap",
+        "mod-id": 32274,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Just Enough Items (JEI)",
+        "mod-id": 238222,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Just Enough Calculation",
+        "mod-id": 242223,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Just Enough Resources (JER)",
+        "mod-id": 240630,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "LagGoggles",
+        "mod-id": 283525,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "McAssistant",
+        "mod-id": 260599,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mekanism",
+        "mod-id": 268560,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mekanism Generators",
+        "mod-id": 268566,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mekanism Tools",
+        "mod-id": 268567,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Morph-o-Tool",
+        "mod-id": 245287,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Morpheus",
+        "mod-id": 69118,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "MrCrayfish's Furniture Mod",
+        "mod-id": 55438,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mysterious Mountain Lib",
+        "mod-id": 368098,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mystical Agradditions",
+        "mod-id": 256247,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mystical Agriculture",
+        "mod-id": 246640,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Neat",
+        "mod-id": 238372,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "OpenBlocks",
+        "mod-id": 228816,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "OpenModsLib",
+        "mod-id": 228815,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Pam's HarvestCraft",
+        "mod-id": 221857,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Quark",
+        "mod-id": 243121,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "ReAuth",
+        "mod-id": 237701,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "Refined Storage",
+        "mod-id": 243076,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Sakura",
+        "mod-id": null,
+        "mc-version": "1.12.2",
+        "direct-url": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
+    }
+    {
+        "name": "Shadowfacts' Forgelin",
+        "mod-id": 248453,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "SignPicture",
+        "mod-id": 250822,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+    },
+    {
+        "name": "SlashBlade",
+        "mod-id": 241596,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "SpawnChecker",
+        "mod-id": null,
+        "mc-version": "1.12.2",
+	"mod-version": "2.7.7.137",
+	"direct-url": "https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1",
+	"side": "CLIENT"
+    },
+    {
+        "name": "SpongeForge",
+        "mod-id": null,
+        "mc-version": "1.12.2",
+	"mod-version": "1.12.2-2838-7.4.7",
+	"direct-url": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
+	"side": "SERVER"
+    },
+    {
+        "name": "Stacksize",
+        "mod-id": 247843,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "StorageBox",
+        "mod-id": 318494,
+        "mc-version": "1.12.2",
+	"mod-version": "[1.12] [forge2413] mod_StorageBox_v3.2.0"
+    },
+    {
+        "name": "StorageDrawers",
+        "mod-id": 223852,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Tesla Core Lib",
+        "mod-id": 254602,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "TickCentral",
+        "mod-id": 377201,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Tinkers Construct",
+        "mod-id": 74072,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Mantle",
+        "mod-id": 74924,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "TofuCraftReload",
+        "mod-id": 317469,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Unloader",
+        "mod-id": 286230,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Waila Harvestability",
+        "mod-id": 79287,
+        "mc-version": "1.12.2",
+	"side": "CLIENT"
+	},
+    {
+        "name": "WanionLib",
+        "mod-id": 253043,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "Wawla - What Are We Looking At",
+        "mod-id": 224712,
+        "mc-version": "1.12.2"
+    },
+    {
+        "name": "xaero-map-null-potion",
+        "mod-id": null,
+        "mc-version": "1.12.2",
+	"mod-version": "1.0.2",
+	"direct-url": "https://github.com/KisaragiEffective/publicfile/blob/master/xaero-map-null-potion-1.0.2.jar?raw=true",
+	"side": "CLIENT"
+    },
+    {
+        "name": "Xaero's Minimap",
+        "mod-id": 263420,
+        "mc-version": "1.12.2",
+	"side": "SERVER"
+    },
+    {
+        "name": "Xaero's World Map",
+        "mod-id": 317780,
+        "mc-version": "1.12.2",
+	"side": "SERVER"
+    },
+    {
+        "name": "Yet Another Recipe Conflict Fixer (YARCF)",
+        "mod-id": 482566,
+        "mc-version": "1.12.2"
+    }
+]
