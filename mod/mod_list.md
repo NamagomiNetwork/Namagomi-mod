@@ -14,7 +14,7 @@
 |AppleSkin|[1.12-1.0.14](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247)|248787| | |
 |Aroma1997Core|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2676866)|223735| |`Aroma1997s Dimensional World`の前提|
 |Aroma1997s Dimensional World|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2672438)|60092| | |◯|
-|AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |`Quark`・`Morph-o-Tool`の前提|
+|AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |`Morph-o-Tool`・`Quark`の前提|
 |Avaritia 1.1x|[1.12.2-3.3.0.37](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10/files/3143349)|261348| | |
 |Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| | |
 |Avaritia Furnace|[1.0.0-1.12.2](https://www.curseforge.com/minecraft/mc-mods/avaritia-furnace/files/3097230)|416599| | 
