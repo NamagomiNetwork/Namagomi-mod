@@ -102,7 +102,7 @@
 |Controlling|[3.0.10](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3025548)|250398| | |
 |ExtendPolyphonyLimit|[1.3-for1.8-1.12.2](https://www.curseforge.com/minecraft/mc-mods/extendpolyphonylimit/files/2484408)|278844| | |
 |FPS Reducer|[mc1.12.2-1.20](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/3362160)|280294| | |
-|Inventory Tweaks|[1.63](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481)|223094| | |
+|Inventory Tweaks|[1.64+dev.151](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2923460)|223094| | |
 |Neat|[1.4-17](https://www.curseforge.com/minecraft/mc-mods/neat/files/2595310)|238372| | |
 |Optifine|[HD U G5](http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)|N/A| | |
 |ReAuth|[1.12-4.0.0](https://www.curseforge.com/minecraft/mc-mods/reauth/files/3784942)|237701| | |
