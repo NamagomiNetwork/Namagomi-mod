@@ -14,5 +14,5 @@
 - ライセンス不明
 
 ## 参考リンク
-
-不明
+https://web.archive.org/web/20190715134757/https://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874<br>
+https://mine-friends.com/storagebox/
