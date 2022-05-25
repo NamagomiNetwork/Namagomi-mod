@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-スタックサイズを変えるもっも？？？
+スタックできないもの・しにくいもののスタックサイズを変えるもっも。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/stacksize
