@@ -9,6 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-不明
+ミニマップもっも。サーバー側にも導入することでクライアント側で正確な表示ができる。
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap<br>
+https://chocolateminecraft.com/minimap2.php
