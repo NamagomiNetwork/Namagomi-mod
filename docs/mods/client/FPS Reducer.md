@@ -9,6 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-放置時FPSを下げるもっも
+放置時にFPSを下げて負荷を軽減するもっも
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/fps-reducer
