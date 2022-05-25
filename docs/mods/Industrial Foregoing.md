@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing/files/2745321
 - LICENCE: MIT License
 - Project ID: 266515
-- 前提mod: Tesla Core Lib , Shadowfacts' Forgelin
+- 前提mod: Tesla Core Lib, Shadowfacts' Forgelin
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
