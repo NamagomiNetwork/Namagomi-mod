@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-JEIの拡張機能
+JEIのアドオン。中間素材の多いアイテムを作るときに必要素材数を計算できる電卓アイテムを追加する。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/
