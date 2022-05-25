@@ -8,13 +8,13 @@
         "name": "Aroma1997Core",
         "mod-id": 223735,
         "mc-version": "1.12.2",
-	"mod-version": "1.12.2-2.0.0.2"
+        "mod-version": "1.12.2-2.0.0.2"
     },
     {
         "name": "Aroma1997s Dimensional World",
         "mod-id": 60092,
         "mc-version": "1.12.2",
-	"mod-version": "1.12.2-2.0.0.2"
+        "mod-version": "1.12.2-2.0.0.2"
     },
     {
         "name": "AutoRegLib",
@@ -85,7 +85,7 @@
         "name": "Controlling",
         "mod-id": 250398,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "Cooking for Blockheads",
@@ -116,7 +116,7 @@
         "name": "ExtendPolyphonyLimit",
         "mod-id": 278844,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "Extra Utilities 2",
@@ -137,13 +137,13 @@
         "name": "Fast Leaf Decay",
         "mod-id": 230976,
         "mc-version": "1.12.2",
-	"side": "SERVER"
+        "side": "SERVER"
     },
     {
         "name": "FPS Reducer",
         "mod-id": 280294,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "FTB Ultimine",
@@ -189,7 +189,7 @@
         "name": "Inventory Tweaks",
         "mod-id": 223094,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "Iron Chests",
@@ -280,7 +280,7 @@
         "name": "Neat",
         "mod-id": 238372,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "OpenBlocks",
@@ -306,7 +306,7 @@
         "name": "ReAuth",
         "mod-id": 237701,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "Refined Storage",
@@ -328,7 +328,7 @@
         "name": "SignPicture",
         "mod-id": 250822,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
+        "side": "CLIENT"
     },
     {
         "name": "SlashBlade",
@@ -339,17 +339,17 @@
         "name": "SpawnChecker",
         "mod-id": null,
         "mc-version": "1.12.2",
-	"mod-version": "2.7.7.137",
-	"direct-url": "https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1",
-	"side": "CLIENT"
+        "mod-version": "2.7.7.137",
+        "direct-url": "https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1",
+        "side": "CLIENT"
     },
     {
         "name": "SpongeForge",
         "mod-id": null,
         "mc-version": "1.12.2",
-	"mod-version": "1.12.2-2838-7.4.7",
-	"direct-url": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
-	"side": "SERVER"
+        "mod-version": "1.12.2-2838-7.4.7",
+        "direct-url": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
+        "side": "SERVER"
     },
     {
         "name": "Stacksize",
@@ -358,9 +358,10 @@
     },
     {
         "name": "StorageBox",
-        "mod-id": 318494,
+        "mod-id": null,
         "mc-version": "1.12.2",
-	"mod-version": "[1.12] [forge2413] mod_StorageBox_v3.2.0"
+        "mod-version": "[1.12] [forge2413] mod_StorageBox_v3.2.0",
+        "direct-url": "https://web.archive.org/web/20190716014402/http://forum.minecraftuser.jp/download/file.php?id=75930"
     },
     {
         "name": "StorageDrawers",
@@ -401,8 +402,8 @@
         "name": "Waila Harvestability",
         "mod-id": 79287,
         "mc-version": "1.12.2",
-	"side": "CLIENT"
-	},
+        "side": "CLIENT"
+    },
     {
         "name": "WanionLib",
         "mod-id": 253043,
@@ -417,21 +418,21 @@
         "name": "xaero-map-null-potion",
         "mod-id": null,
         "mc-version": "1.12.2",
-	"mod-version": "1.0.2",
-	"direct-url": "https://github.com/KisaragiEffective/publicfile/blob/master/xaero-map-null-potion-1.0.2.jar?raw=true",
-	"side": "CLIENT"
+        "mod-version": "1.0.2",
+        "direct-url": "https://github.com/KisaragiEffective/publicfile/blob/master/xaero-map-null-potion-1.0.2.jar?raw=true",
+        "side": "CLIENT"
     },
     {
         "name": "Xaero's Minimap",
         "mod-id": 263420,
         "mc-version": "1.12.2",
-	"side": "SERVER"
+        "side": "SERVER"
     },
     {
         "name": "Xaero's World Map",
         "mod-id": 317780,
         "mc-version": "1.12.2",
-	"side": "SERVER"
+        "side": "SERVER"
     },
     {
         "name": "Yet Another Recipe Conflict Fixer (YARCF)",
