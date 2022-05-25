@@ -9,7 +9,7 @@
 - 依存mod: Integrated Dynamics, Integrated Tunnels
 
 ## このもっもは何をするんですか？
-ntegrated Dynamics・Integrated Tunnelsの前提もっも
+Integrated Dynamics・Integrated Tunnelsの前提もっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/cyclops-core/
