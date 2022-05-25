@@ -6,7 +6,7 @@
 - LICENCE: MIT License
 - Project ID: 268560
 - 前提mod: N/A
-- 依存mod: Mekanism Generators,Mekanism Tools
+- 依存mod: Mekanism Generators, Mekanism Tools
 
 ## このもっもは何をするんですか？
 とても分かりやすい工業もっも。これがないと始まらない
