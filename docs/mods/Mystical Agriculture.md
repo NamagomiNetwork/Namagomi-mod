@@ -9,7 +9,7 @@
 - 依存mod: Mystical Agradditions
 
 ## このもっもは何をするんですか？
-鉱石をなどを育てるもっも？
+鉱石農業もっも。手間はかかるものの頑張れば実質的に各鉱石が無限化できるようになる。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture
