@@ -10,7 +10,7 @@
 
 ## このもっもは何をするんですか？
 まっぷもっど<br>
-サーバーにも入っていますが **modを抜いても参加できます**
+他のマップmodを使いたい人は**このmodを抜いても参加できます**
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/journeymap/
