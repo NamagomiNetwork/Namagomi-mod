@@ -12,4 +12,5 @@
 おとうふもっも！たのしい！
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/tofucraftreload/
+https://www.curseforge.com/minecraft/mc-mods/tofucraftreload/<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/TofuCraftReload
