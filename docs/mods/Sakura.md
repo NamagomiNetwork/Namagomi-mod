@@ -12,4 +12,5 @@
 和風もっも！きれい！
 
 ## 参考リンク
-https://github.com/KisaragiEffective/Sakura_mod
+https://github.com/KisaragiEffective/Sakura_mod<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Sakura
