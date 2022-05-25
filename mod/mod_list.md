@@ -69,7 +69,7 @@
 |Shadowfacts' Forgelin|[1.8.3](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2727070)|248453| |`Tesla Core Lib`の前提|
 |SlashBlade|[mc1.12-r33](https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993)|241596| | |
 |Stacksize|[1.12.2-1.0](https://www.curseforge.com/minecraft/mc-mods/stacksize/files/2511850)|247843| | |
-|StorageBox mod|[v3.2.0](https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2740442)|318494| |`IkkatsuHakai`内のAdditional Filesとして存在|
+|StorageBox mod|[v3.2.0](https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2740442)|318494| |`IkkatsuHakai`内のAdditional Filesとして存在しているが、直接DLできないため[アーカイブ](https://web.archive.org/web/20190716014402/http://forum.minecraftuser.jp/download/file.php?id=75930)よりダウンロードで代用|
 |StorageDrawers|[1.12.2-5.4.2](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2952606)|223852| | |
 |Tesla Core Lib|[1.0.18.28](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/3438487)|254602| |`Industrial Foregoing`の前提|
 |TickCentral|[3.2](https://www.curseforge.com/minecraft/mc-mods/tickcentral/files/3140670)|377201| |`LagGoggles`の前提|
