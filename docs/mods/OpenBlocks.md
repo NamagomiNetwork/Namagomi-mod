@@ -9,8 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-いろいろ増えるもっも<br>
-by とんかつ
+役に立つものから立たないものまで、雑多なアイテムが追加されるもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/openblocks/
