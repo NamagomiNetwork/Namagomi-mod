@@ -10,7 +10,7 @@ Version 2.0
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-Avaritiaのアドオン？これもnabrにはよくわかりません
+Avaritiaのアドオン
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/avaritiaddons
