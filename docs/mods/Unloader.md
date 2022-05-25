@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-いらないチャンクを読み込まなくしてくれるもっも
+使っていないディメンションのチャンクを読み込まなくしてくれる軽量化もっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/unloader/
