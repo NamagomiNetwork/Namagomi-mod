@@ -9,6 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-無効なセッション対策もっも
+無効なセッション対策もっも<br>
+Microsoftアカウントにも対応。
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/reauth
