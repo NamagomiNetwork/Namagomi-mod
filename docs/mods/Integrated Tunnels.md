@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/3159511
 - LICENCE: MIT License 
 - Project ID: 251389
-- 前提mod: Integrated Dynamics
+- 前提mod: Integrated Dynamics , Cyclops Core
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
