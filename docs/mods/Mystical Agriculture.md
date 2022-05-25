@@ -1,7 +1,7 @@
 # mod詳細
 
 - もっも名: Mystical Agriculture
-- もっものバージョン:  	1.12.2-1.7.5
+- もっものバージョン: 1.12.2-1.7.5
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2704562
 - LICENCE: MIT License
 - Project ID: 246640
