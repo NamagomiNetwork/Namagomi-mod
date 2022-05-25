@@ -9,7 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-なんかつよそう
+通称抜刀剣mod。なんかつよそう
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/slashblade
+https://www.curseforge.com/minecraft/mc-mods/slashblade<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/SlashBladeMod
