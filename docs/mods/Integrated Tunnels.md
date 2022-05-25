@@ -5,11 +5,11 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/3159511
 - LICENCE: MIT License 
 - Project ID: 251389
-- 前提mod: Common Capabilities , Cyclops Core
+- 前提mod: Integrated Dynamics
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-液体などを運べるパイプを追加するもっも？
+Integrated Dynamicsのアドオン。アイテム、流体、エネルギーを転送できるようにする。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels
