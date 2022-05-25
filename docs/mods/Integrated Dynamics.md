@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-自動化に便利そうなもっも
+自動化などに役立つ様々なアイテムや概念を追加するもっも。プログラミング的な要素があるっぽい
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics
