@@ -12,4 +12,5 @@
 いろいろな家具を追加するもっも
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/
+https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/MrCrayfish%27sFurnitureMod
