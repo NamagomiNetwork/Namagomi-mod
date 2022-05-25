@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/3159505
 - LICENCE: MIT License
 - Project ID: 236307
-- 前提mod: Common Capabilities , Cyclops Core
+- 前提mod: Common Capabilities, Cyclops Core
 - 依存mod: Integrated Tunnels
 
 ## このもっもは何をするんですか？
