@@ -9,6 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-Just Enough Itemsのアドオン,ドロップアイテムなどの情報を表示するもっも
+Just Enough Itemsのアドオン。ドロップアイテムなどの情報を表示するもっも
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
