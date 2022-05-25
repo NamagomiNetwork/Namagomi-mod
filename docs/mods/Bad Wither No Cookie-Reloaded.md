@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-ウィザーの出現音をおそらく消すもっも
+ウィザーなど、ボスmobのうるさい出現音を消すもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded
