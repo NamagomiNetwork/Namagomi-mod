@@ -6,10 +6,10 @@
 - LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)
 - Project ID: 250363
 - 前提mod: N/A
-- 依存mod: Quark
+- 依存mod: Morph-o-Tool, Quark
 
 ## このもっもは何をするんですか？
-Quarkの前提もっも
+Morph-o-Tool、Quarkの前提もっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/autoreglib/
