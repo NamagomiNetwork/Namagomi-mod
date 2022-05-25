@@ -6,7 +6,7 @@
 - LICENCE: MIT License
 - Project ID: 236307
 - 前提mod: Common Capabilities , Cyclops Core
-- 依存mod: N/A
+- 依存mod: Integrated Tunnels
 
 ## このもっもは何をするんですか？
 自動化などに役立つ様々なアイテムや概念を追加するもっも。プログラミング的な要素があるっぽい
