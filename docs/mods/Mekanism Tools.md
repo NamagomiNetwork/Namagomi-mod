@@ -9,7 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-Mekanismのアドオン
+Mekanismのアドオン。ツールや防具類を追加する。
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/
+https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Mekanism/追加ブロック・アイテム・レシピ一覧%28v9%29#Mekanism_Toolsで追加される物

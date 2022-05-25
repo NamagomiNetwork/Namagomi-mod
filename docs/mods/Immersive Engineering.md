@@ -12,4 +12,5 @@
 リアル重視の工業系もっも
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2974106
+https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2974106<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Immersive_Engineering

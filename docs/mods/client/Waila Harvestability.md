@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605
 - LICENCE: Public Domain
 - Project ID: 79287
-- 前提mod: N/A
+- 前提mod: Hwyla
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？

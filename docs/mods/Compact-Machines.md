@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-各種機械を1ブロックに濃縮できる？もっも
+各種機械を構築したものを1ブロックにまとめられるもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/compact-machines

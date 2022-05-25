@@ -13,4 +13,5 @@
 キッチンや料理本が追加されます
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
+https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Cooking_For_Blockheads

@@ -9,7 +9,7 @@
 - 依存mod: baublelicious
 
 ## このもっもは何をするんですか？
-baubleliciousの依存もっも
+インベントリにアクセサリースロットを追加するもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/baubles

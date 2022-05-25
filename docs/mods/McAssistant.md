@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-一括破壊系の便利なもっも
+一括破壊など、ゲームプレイがちょっとだけ便利になる機能を追加してくれるもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/mcassistant/

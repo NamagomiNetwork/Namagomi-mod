@@ -12,3 +12,4 @@
 葉っぱをすぐ消すもっも
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay

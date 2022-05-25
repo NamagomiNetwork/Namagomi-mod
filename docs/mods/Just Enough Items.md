@@ -6,10 +6,10 @@
 - LICENCE: MIT License
 - Project ID: 238222
 - 前提mod: N/A
-- 依存mod: JEI Integration, Just Enough Calculation
+- 依存mod: JEI Integration, Just Enough Calculation, Just Enough Resources
 
 ## このもっもは何をするんですか？
-もっものレシピなどを見るときになどに必須のレシピもっも
+通称JEI。もっものレシピなどを見るときになどに必須のレシピもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/jei/

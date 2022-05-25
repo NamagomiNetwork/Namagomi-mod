@@ -9,6 +9,7 @@
 - 依存mod: TofuCraftReload
 
 ## このもっもは何をするんですか？
-おとうふもっもの前提
+TofuCraftReloadの前提
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib

@@ -9,6 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-不明
+フル画面マップもっも。サーバー側にも導入することでクライアント側で正確な表示ができる。
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map<br>
+https://chocolateminecraft.com/worldmap.php

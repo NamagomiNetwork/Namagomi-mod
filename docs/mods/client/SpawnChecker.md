@@ -9,6 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-不明
+湧き潰し支援もっも<br>
+明るさレベルが低く、敵mobが湧くブロックを可視化できる
 
 ## 参考リンク
+http://yuhiarticles.blogspot.com/2018/03/minecraftmodspawnchecker.html

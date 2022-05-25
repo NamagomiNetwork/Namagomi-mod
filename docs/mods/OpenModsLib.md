@@ -12,4 +12,4 @@
 OpenBlocksの前提もっも
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/openmodslib/f
+https://www.curseforge.com/minecraft/mc-mods/openmodslib

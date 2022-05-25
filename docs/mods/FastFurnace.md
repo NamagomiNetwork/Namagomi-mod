@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-各種処理の最適化を行うもっも
+主にかまど関連に関して、各種処理の最適化を行うもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/fastfurnace/

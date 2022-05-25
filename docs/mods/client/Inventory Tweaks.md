@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-インベントリ系の便利もっも？
+インベントリ整理もっも！
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/

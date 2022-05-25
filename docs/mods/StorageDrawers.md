@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-引き出し？を追加するもっも
+アイテムの収納や整理に便利な引き出しを追加するもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/storage-drawers

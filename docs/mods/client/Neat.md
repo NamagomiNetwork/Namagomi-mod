@@ -9,6 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-HPを表示するもっも
+mobや他プレイヤーのHPを表示するもっも
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/neat

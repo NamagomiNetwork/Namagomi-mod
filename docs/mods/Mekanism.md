@@ -6,10 +6,11 @@
 - LICENCE: MIT License
 - Project ID: 268560
 - 前提mod: N/A
-- 依存mod: Mekanism Generators,Mekanism Tools
+- 依存mod: Mekanism Generators, Mekanism Tools
 
 ## このもっもは何をするんですか？
-工業もっも。これがないと始まらない
+とても分かりやすい工業もっも。これがないと始まらない
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/mekanism/
+https://www.curseforge.com/minecraft/mc-mods/mekanism/<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Mekanism

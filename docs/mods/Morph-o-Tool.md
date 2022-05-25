@@ -5,11 +5,11 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176
 - LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176)
 - Project ID: 245287
-- 前提mod: N/A
+- 前提mod: AutoRegLib
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-Morphing Toolを追加するもっも
+他modのレンチなどの代わりになるアイテムを追加するもっも。残念ながらMekanismには非対応。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/morph-o-tool

@@ -6,10 +6,10 @@
 - LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751)
 - Project ID: 253449
 - 前提mod: N/A
-- 依存mod: 不明
+- 依存mod: Wawla - What Are We Looking At, Waila Harvestability
 
 ## このもっもは何をするんですか？
-詳細不明。おそらく前提もっも
+見ているブロックの詳細を表示できるもっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/hwyla

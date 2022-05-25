@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-各種アイテム類を追加
+各種アイテム類を追加。工業要素強め。
 
 ## 参考リンク
-https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Extra_Utilities_2

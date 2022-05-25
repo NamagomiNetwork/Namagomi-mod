@@ -9,7 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-Minecraftのマスストレージモッド...?
+大容量・高性能な倉庫系もっも。電力が必要なので多少工業要素あり。
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/refined-storage/
+https://www.curseforge.com/minecraft/mc-mods/refined-storage/<br>
+https://minecraftjapan.miraheze.org/wiki/MOD解説/Refined_Storage

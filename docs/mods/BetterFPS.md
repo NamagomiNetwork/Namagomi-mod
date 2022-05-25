@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-軽量化もっも？
+軽量化もっも。サーバー、クライアント側それぞれに効果がある。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/betterfps
