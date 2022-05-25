@@ -5,7 +5,7 @@
 - DLリンク: https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/files/3200529
 - LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/files/3200529)
 - Project ID: 277938
-- 前提mod: GunpowderLib , Industrial Foregoing
+- 前提mod: GunpowderLib, Industrial Foregoing
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
