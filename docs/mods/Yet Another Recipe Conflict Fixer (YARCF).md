@@ -9,6 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-もっものレシピ競合を消すもっも？
+競合したレシピを切り替えてクラフトできるようにするもっも。
+[Crafting EX](https://www.curseforge.com/minecraft/mc-mods/craftingex)がJEIと相性が悪いためこちらに代替。
 
 ## 参考リンク
+https://www.curseforge.com/minecraft/mc-mods/yarcf
