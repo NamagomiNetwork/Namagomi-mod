@@ -109,4 +109,4 @@
 |SignPicture|[1.12.1-2.8.1](https://www.curseforge.com/minecraft/mc-mods/signpicture/files/2464981)|250822| | |
 |SpawnChecker|[2.7.7.137](https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1)|N/A| | |
 |Waila Harvestability|[mc1.12-1.1.12](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)|79287| |`Hwyla`のアドオン|
-|xaero-map-null-potion|[1.0.2](https://github.com/KisaragiEffective/publicfile/blob/master/xaero-map-null-potion-1.0.2.jar?raw=true)|N/A| |ダミーmod。Xaero'sシリーズのマップmodを使用する際は構成から抜く必要あり！|
+|xaero-map-null-potion|[1.0.2](https://github.com/KisaragiEffective/xaero-map-null-potion/releases/download/1.0.2/xaero-map-null-potion-1.0.2.jar)|N/A| |ダミーmod。Xaero'sシリーズのマップmodを使用する際は構成から抜く必要あり！|
