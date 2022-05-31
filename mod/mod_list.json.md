@@ -19,14 +19,14 @@
 [
     {
         "name": "mekanism",
-        "mod-id": 268560,
-        "mc-version": "1.12.2"
+        "modId": 268560,
+        "mcVersion": "1.12.2"
     },
     {
         "name": "sakura",
-        "mod-id": null,
-        "mc-version": "1.12.2",
-        "direct-url": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar"
+        "modId": null,
+        "mcVersion": "1.12.2",
+        "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar"
     }
 ]
 ```
