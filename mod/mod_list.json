@@ -179,7 +179,7 @@
     {
         "name": "ExtendPolyphonyLimit",
         "modId": "278844",
-        "mcVersion": "1.12.2",,
+        "mcVersion": "1.12.2",
         "modVersion": null,
         "directUrl": null,
         "side": "CLIENT"
@@ -435,7 +435,7 @@
     {
         "name": "Neat",
         "modId": "238372",
-        "mcVersion": "1.12.2",,
+        "mcVersion": "1.12.2",
         "modVersion": null,
         "directUrl": null,
         "side": "CLIENT"
@@ -492,8 +492,8 @@
         "name": "Sakura",
         "modId": null,
         "mcVersion": "1.12.2",
-        "modVersion": null
-        "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar"
+        "modVersion": null,
+        "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
         "side": ""
     },
     {
