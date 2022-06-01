@@ -370,7 +370,7 @@
     },
     {
         "name": "Mekanism Generators",
-        "modId": 268566,
+        "modId": "268566",
         "mcVersion": "1.12.2",
         "modVersion": null,
         "directUrl": null,
