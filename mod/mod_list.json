@@ -1,339 +1,524 @@
 [
     {
         "name": "AppleSkin",
-        "modId": 248787,
-        "mcVersion": "1.12.2"
+        "modId": "248787",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Aroma1997Core",
-        "modId": 223735,
+        "modId": "223735",
         "mcVersion": "1.12.2",
-        "modVersion": "1.12.2-2.0.0.2"
+        "modVersion": "1.12.2-2.0.0.2",
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Aroma1997s Dimensional World",
-        "modId": 60092,
+        "modId": "60092",
         "mcVersion": "1.12.2",
-        "modVersion": "1.12.2-2.0.0.2"
+        "modVersion": "1.12.2-2.0.0.2",
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "AutoRegLib",
-        "modId": 250363,
-        "mcVersion": "1.12.2"
+        "modId": "250363",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Avaritia 1.1x",
-        "modId": 261348,
-        "mcVersion": "1.12.2"
+        "modId": "261348",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Avaritiaddons",
-        "modId": 248873,
-        "mcVersion": "1.12.2"
+        "modId": "248873",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Avaritia Furnace",
-        "modId": 416599,
-        "mcVersion": "1.12.2"
+        "modId": "416599",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Bad Wither No Cookie - Reloaded",
-        "modId": 261251,
-        "mcVersion": "1.12.2"
+        "modId": "261251",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Baubles",
-        "modId": 227083,
-        "mcVersion": "1.12.2"
+        "modId": "227083",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Baublelicious",
-        "modId": 223951,
-        "mcVersion": "1.12.2"
+        "modId": "223951",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "BetterFps",
-        "modId": 229876,
-        "mcVersion": "1.12.2"
+        "modId": "229876",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Chameleon",
-        "modId": 230497,
-        "mcVersion": "1.12.2"
+        "modId": "230497",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Clumps",
-        "modId": 256717,
-        "mcVersion": "1.12.2"
+        "modId": "256717",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "CodeChicken Lib 1.8.+",
-        "modId": 242818,
-        "mcVersion": "1.12.2"
+        "modId": "242818",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Common Capabilities",
-        "modId": 247007,
-        "mcVersion": "1.12.2"
+        "modId": "247007",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
+        
     },
     {
         "name": "Compact Machines",
-        "modId": 224218,
-        "mcVersion": "1.12.2"
+        "modId": "224218",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Controlling",
-        "modId": 250398,
+        "modId": "250398",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "Cooking for Blockheads",
-        "modId": 231484,
-        "mcVersion": "1.12.2"
+        "modId": "231484",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "CraftTweaker",
-        "modId": 239197,
-        "mcVersion": "1.12.2"
+        "modId": "239197",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Cucumber Library",
-        "modId": 272335,
-        "mcVersion": "1.12.2"
+        "modId": "272335",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Cyclic",
-        "modId": 239286,
-        "mcVersion": "1.12.2"
+        "modId": "239286",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Cyclops Core",
-        "modId": 232758,
-        "mcVersion": "1.12.2"
+        "modId": "232758",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "ExtendPolyphonyLimit",
-        "modId": 278844,
-        "mcVersion": "1.12.2",
+        "modId": "278844",
+        "mcVersion": "1.12.2",,
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "Extra Utilities 2",
-        "modId": 225561,
-        "mcVersion": "1.12.2"
+        "modId": "225561",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Farming for Blockheads",
-        "modId": 261924,
-        "mcVersion": "1.12.2"
+        "modId": "261924",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "FastFurnace",
-        "modId": 299540,
-        "mcVersion": "1.12.2"
+        "modId": "299540",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Fast Leaf Decay",
-        "modId": 230976,
+        "modId": "230976",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "SERVER"
     },
     {
         "name": "FPS Reducer",
-        "modId": 280294,
+        "modId": "280294",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "FTB Ultimine",
-        "modId": 386134,
-        "mcVersion": "1.12.2"
+        "modId": "386134",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "GunpowderLib",
-        "modId": 356646,
-        "mcVersion": "1.12.2"
+        "modId": "356646",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Hwyla",
-        "modId": 253449,
-        "mcVersion": "1.12.2"
+        "modId": "253449",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Immersive Engineering",
-        "modId": 231951,
-        "mcVersion": "1.12.2"
+        "modId": "231951",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Industrial Foregoing",
-        "modId": 266515,
-        "mcVersion": "1.12.2"
+        "modId": "266515",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Integrated Dynamics",
-        "modId": 236307,
-        "mcVersion": "1.12.2"
+        "modId": "236307",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Integrated Tunnels",
-        "modId": 251389,
-        "mcVersion": "1.12.2"
+        "modId": "251389",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Integration Foregoing",
-        "modId": 277938,
-        "mcVersion": "1.12.2"
+        "modId": "277938",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Inventory Tweaks",
-        "modId": 223094,
+        "modId": "223094",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "Iron Chests",
-        "modId": 228756,
-        "mcVersion": "1.12.2"
+        "modId": "228756",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "JEI Integration",
-        "modId": 265917,
-        "mcVersion": "1.12.2"
+        "modId": "265917",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "JourneyMap",
-        "modId": 32274,
-        "mcVersion": "1.12.2"
+        "modId": "32274",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Just Enough Items (JEI)",
-        "modId": 238222,
-        "mcVersion": "1.12.2"
+        "modId": "238222",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Just Enough Calculation",
-        "modId": 242223,
-        "mcVersion": "1.12.2"
+        "modId": "242223",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Just Enough Resources (JER)",
-        "modId": 240630,
-        "mcVersion": "1.12.2"
+        "modId": "240630",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "LagGoggles",
-        "modId": 283525,
-        "mcVersion": "1.12.2"
+        "modId": "283525",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "McAssistant",
-        "modId": 260599,
-        "mcVersion": "1.12.2"
+        "modId": "260599",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mekanism",
-        "modId": 268560,
-        "mcVersion": "1.12.2"
+        "modId": "268560",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mekanism Generators",
         "modId": 268566,
-        "mcVersion": "1.12.2"
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mekanism Tools",
-        "modId": 268567,
-        "mcVersion": "1.12.2"
+        "modId": "268567",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Morph-o-Tool",
-        "modId": 245287,
-        "mcVersion": "1.12.2"
+        "modId": "245287",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Morpheus",
-        "modId": 69118,
-        "mcVersion": "1.12.2"
+        "modId": "69118",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "MrCrayfish's Furniture Mod",
-        "modId": 55438,
-        "mcVersion": "1.12.2"
+        "modId": "55438",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mysterious Mountain Lib",
-        "modId": 368098,
-        "mcVersion": "1.12.2"
+        "modId": "368098",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mystical Agradditions",
-        "modId": 256247,
-        "mcVersion": "1.12.2"
+        "modId": "256247",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mystical Agriculture",
-        "modId": 246640,
-        "mcVersion": "1.12.2"
+        "modId": "246640",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Neat",
-        "modId": 238372,
-        "mcVersion": "1.12.2",
+        "modId": "238372",
+        "mcVersion": "1.12.2",,
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "OpenBlocks",
-        "modId": 228816,
-        "mcVersion": "1.12.2"
+        "modId": "228816",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "OpenModsLib",
-        "modId": 228815,
-        "mcVersion": "1.12.2"
+        "modId": "228815",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Pam's HarvestCraft",
-        "modId": 221857,
-        "mcVersion": "1.12.2"
+        "modId": "221857",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Quark",
-        "modId": 243121,
-        "mcVersion": "1.12.2"
+        "modId": "243121",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "ReAuth",
-        "modId": 237701,
+        "modId": "237701",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "Refined Storage",
-        "modId": 243076,
-        "mcVersion": "1.12.2"
+        "modId": "243076",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Sakura",
         "modId": null,
         "mcVersion": "1.12.2",
+        "modVersion": null
         "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar"
+        "side": ""
     },
     {
         "name": "Shadowfacts' Forgelin",
-        "modId": 248453,
-        "mcVersion": "1.12.2"
+        "modId": "248453",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "SignPicture",
-        "modId": 250822,
+        "modId": "250822",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "SlashBlade",
-        "modId": 241596,
-        "mcVersion": "1.12.2"
+        "modId": "241596",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "SpawnChecker",
@@ -353,66 +538,99 @@
     },
     {
         "name": "Stacksize",
-        "modId": 247843,
-        "mcVersion": "1.12.2"
+        "modId": "247843",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "StorageBox",
         "modId": null,
         "mcVersion": "1.12.2",
         "modVersion": "[1.12] [forge2413] mod_StorageBox_v3.2.0",
-        "directUrl": "https://web.archive.org/web/20190716014402/http://forum.minecraftuser.jp/download/file.php?id=75930"
+        "directUrl": "https://web.archive.org/web/20190716014402/http://forum.minecraftuser.jp/download/file.php?id=75930",
+        "side": ""
     },
     {
         "name": "StorageDrawers",
-        "modId": 223852,
-        "mcVersion": "1.12.2"
+        "modId": "223852",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Tesla Core Lib",
-        "modId": 254602,
-        "mcVersion": "1.12.2"
+        "modId": "254602",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "TickCentral",
-        "modId": 377201,
-        "mcVersion": "1.12.2"
+        "modId": "377201",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Tinkers Construct",
-        "modId": 74072,
-        "mcVersion": "1.12.2"
+        "modId": "74072",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Mantle",
-        "modId": 74924,
-        "mcVersion": "1.12.2"
+        "modId": "74924",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "TofuCraftReload",
-        "modId": 317469,
-        "mcVersion": "1.12.2"
+        "modId": "317469",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Unloader",
-        "modId": 286230,
-        "mcVersion": "1.12.2"
+        "modId": "286230",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Waila Harvestability",
-        "modId": 79287,
+        "modId": "79287",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "CLIENT"
     },
     {
         "name": "WanionLib",
-        "modId": 253043,
-        "mcVersion": "1.12.2"
+        "modId": "253043",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "Wawla - What Are We Looking At",
-        "modId": 224712,
-        "mcVersion": "1.12.2"
+        "modId": "224712",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     },
     {
         "name": "xaero-map-null-potion",
@@ -424,19 +642,26 @@
     },
     {
         "name": "Xaero's Minimap",
-        "modId": 263420,
+        "modId": "263420",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "SERVER"
     },
     {
         "name": "Xaero's World Map",
-        "modId": 317780,
+        "modId": "317780",
         "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
         "side": "SERVER"
     },
     {
         "name": "Yet Another Recipe Conflict Fixer (YARCF)",
-        "modId": 482566,
-        "mcVersion": "1.12.2"
+        "modId": "482566",
+        "mcVersion": "1.12.2",
+        "modVersion": null,
+        "directUrl": null,
+        "side": ""
     }
 ]
