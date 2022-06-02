@@ -98,6 +98,7 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
+|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Controlling|[3.0.10](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3025548)|250398| | |
 |ExtendPolyphonyLimit|[1.3-for1.8-1.12.2](https://www.curseforge.com/minecraft/mc-mods/extendpolyphonylimit/files/2484408)|278844| | |
 |FPS Reducer|[mc1.12.2-1.20](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/3362160)|280294| | |
@@ -109,4 +110,3 @@
 |SpawnChecker|[2.7.7.137](https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1)|N/A| | |
 |Waila Harvestability|[mc1.12-1.1.12](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)|79287| |`Hwyla`のアドオン|
 |xaero-map-null-potion|[1.0.2](https://github.com/KisaragiEffective/xaero-map-null-potion/releases/download/1.0.2/xaero-map-null-potion-1.0.2.jar)|N/A| |ダミーmod。Xaero'sシリーズのマップmodを使用する際は構成から抜く必要あり！|
-|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
