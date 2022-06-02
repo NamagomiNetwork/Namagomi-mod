@@ -18,7 +18,6 @@
 |Avaritia 1.1x|[1.12.2-3.3.0.37](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10/files/3143349)|261348| | |
 |Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| |`Avaritia 1.1x`のアドオン|
 |Avaritia Furnace|[1.0.0-1.12.2](https://www.curseforge.com/minecraft/mc-mods/avaritia-furnace/files/3097230)|416599| | 
-|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Baubles|[1.12-1.5.2](https://www.curseforge.com/minecraft/mc-mods/baubles/files/2518667)|227083| | |
 |Baublelicious|[1.4.0-4](https://www.curseforge.com/minecraft/mc-mods/baublelicious/files/2532880)|223951| |`Baubles`のアドオン|
 |BetterFps|[1.4.8](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)|229876| | |
@@ -110,3 +109,4 @@
 |SpawnChecker|[2.7.7.137](https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1)|N/A| | |
 |Waila Harvestability|[mc1.12-1.1.12](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)|79287| |`Hwyla`のアドオン|
 |xaero-map-null-potion|[1.0.2](https://github.com/KisaragiEffective/xaero-map-null-potion/releases/download/1.0.2/xaero-map-null-potion-1.0.2.jar)|N/A| |ダミーmod。Xaero'sシリーズのマップmodを使用する際は構成から抜く必要あり！|
+|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
