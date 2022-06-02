@@ -18,7 +18,6 @@
 |Avaritia 1.1x|[1.12.2-3.3.0.37](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10/files/3143349)|261348| | |
 |Avaritiaddons|[1.12.2-1.7](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/3662188)|248873| |`Avaritia 1.1x`のアドオン|
 |Avaritia Furnace|[1.0.0-1.12.2](https://www.curseforge.com/minecraft/mc-mods/avaritia-furnace/files/3097230)|416599| | 
-|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Baubles|[1.12-1.5.2](https://www.curseforge.com/minecraft/mc-mods/baubles/files/2518667)|227083| | |
 |Baublelicious|[1.4.0-4](https://www.curseforge.com/minecraft/mc-mods/baublelicious/files/2532880)|223951| |`Baubles`のアドオン|
 |BetterFps|[1.4.8](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)|229876| | |
@@ -99,6 +98,7 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
+|Bad Wither No Cookie - Reloaded|[1.12.2-3.4.18](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3045651)|261251| | |
 |Controlling|[3.0.10](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3025548)|250398| | |
 |ExtendPolyphonyLimit|[1.3-for1.8-1.12.2](https://www.curseforge.com/minecraft/mc-mods/extendpolyphonylimit/files/2484408)|278844| | |
 |FPS Reducer|[mc1.12.2-1.20](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/3362160)|280294| | |

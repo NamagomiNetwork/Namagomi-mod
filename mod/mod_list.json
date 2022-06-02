@@ -61,7 +61,7 @@
         "mcVersion": "1.12.2",
         "modVersion": null,
         "directUrl": null,
-        "side": ""
+        "side": "CLIENT"
     },
     {
         "name": "Baubles",
