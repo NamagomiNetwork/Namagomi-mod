@@ -88,8 +88,8 @@
 |:---|:---|:---|:---|:---|
 |Fast Leaf Decay|[v14](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272)|230976| | |
 |SpongeForge|[1.12.2-2838-7.4.7](https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar)|N/A|[docs](/docs/mods/SpongeForge.md)| |
-|Xaero's Minimap|[v22.8.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3798908)|263420| | |
-|Xaero's World Map|[v1.22.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3796741)|317780| | |
+|Xaero's Minimap|[v22.9.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3811517)|263420| | |
+|Xaero's World Map|[v1.23.1 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3811528)|317780| | |
 
 ## クライアントだけのもっも！
 
