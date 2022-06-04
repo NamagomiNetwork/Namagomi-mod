@@ -19,7 +19,7 @@ import mods.jei.JEI.removeAndHide as rh;
 	rh(<avaritia:singularity:10>, false);
 	rh(<avaritia:singularity:11>, false);
 
-# singularitys
+# singularities
 	mods.avaritia.Compressor.add("0",<avaritia:singularity>, 5000, <ore:ingotIron>, true);
 	mods.avaritia.Compressor.add("1",<avaritia:singularity:1>, 5000, <ore:ingotGold>, true);
 	mods.avaritia.Compressor.add("2",<avaritia:singularity:2>, 5000, <ore:gemLapis>, true);
