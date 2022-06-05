@@ -212,7 +212,7 @@
         "name": "Fast Leaf Decay",
         "modId": "230976",
         "mcVersion": "1.12.2",
-        "modVersion": null,
+        "modVersion": "v14",
         "directUrl": null,
         "side": "SERVER"
     },
@@ -644,7 +644,7 @@
         "name": "Xaero's Minimap",
         "modId": "263420",
         "mcVersion": "1.12.2",
-        "modVersion": null,
+        "modVersion": "v22.9.0 for Forge 1.12.2",
         "directUrl": null,
         "side": "SERVER"
     },
@@ -652,7 +652,7 @@
         "name": "Xaero's World Map",
         "modId": "317780",
         "mcVersion": "1.12.2",
-        "modVersion": null,
+        "modVersion": "v1.23.1 for Forge 1.12.2",
         "directUrl": null,
         "side": "SERVER"
     },
