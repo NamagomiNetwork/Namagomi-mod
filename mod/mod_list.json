@@ -214,7 +214,7 @@
         "mcVersion": "1.12.2",
         "modVersion": "v14",
         "directUrl": null,
-        "side": "SERVER"
+        "side": ""
     },
     {
         "name": "FPS Reducer",
