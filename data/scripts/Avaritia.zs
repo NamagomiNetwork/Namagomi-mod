@@ -1,23 +1,8 @@
 import crafttweaker.item.IItemStack as IItemStack;
-import mods.jei.JEI.removeAndHide as rh;
 #modloaded avaritia
 
 
 # *======= Recipes =======*
-
-# remove recipes
-	rh(<avaritia:singularity>, false);
-	rh(<avaritia:singularity:1>, false);
-	rh(<avaritia:singularity:2>, false);
-	rh(<avaritia:singularity:3>, false);
-	rh(<avaritia:singularity:4>, false);
-	rh(<avaritia:singularity:5>, false);
-	rh(<avaritia:singularity:6>, false);
-	rh(<avaritia:singularity:7>, false);
-	rh(<avaritia:singularity:8>, false);
-	rh(<avaritia:singularity:9>, false);
-	rh(<avaritia:singularity:10>, false);
-	rh(<avaritia:singularity:11>, false);
 
 # singularities
 	mods.avaritia.Compressor.add("0",<avaritia:singularity>, 5000, <ore:ingotIron>, true);
