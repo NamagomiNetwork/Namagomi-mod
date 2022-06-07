@@ -34,6 +34,7 @@
 |Extra Utilities 2|[1.12-1.9.9](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)|225561| | |
 |Farming for Blockheads|[1.12.2-3.1.28](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/files/2733508)|261924| | |
 |FastFurnace|[1.12.2-1.3.1](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/2706111)|299540| | |
+|Fast Leaf Decay|[v14](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272)|230976| | |
 |FTB Ultimine|[1202.3.5](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/3078750)|386134| | |
 |GunpowderLib|[1.12.2-1.1](https://www.curseforge.com/minecraft/mc-mods/gunpowderlib/files/3168863)|356646| |`Integration Foregoing`の前提|
 |Hwyla|[1.8.26-B41_1.12.2](https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751)|253449| | |
@@ -86,7 +87,6 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
-|Fast Leaf Decay|[v14](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272)|230976| | |
 |SpongeForge|[1.12.2-2838-7.4.7](https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar)|N/A|[docs](/docs/mods/SpongeForge.md)| |
 |Xaero's Minimap|[v22.9.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3811517)|263420| | |
 |Xaero's World Map|[v1.23.1 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3811528)|317780| | |
