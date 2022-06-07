@@ -644,7 +644,7 @@
         "name": "Xaero's Minimap",
         "modId": "263420",
         "mcVersion": "1.12.2",
-        "modVersion": "22.9.0_Forge",
+        "modVersion": "22.9.2_Forge",
         "directUrl": null,
         "side": "SERVER"
     },
@@ -652,7 +652,7 @@
         "name": "Xaero's World Map",
         "modId": "317780",
         "mcVersion": "1.12.2",
-        "modVersion": "1.23.1",
+        "modVersion": "1.23.2",
         "directUrl": null,
         "side": "SERVER"
     },
