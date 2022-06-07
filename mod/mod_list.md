@@ -50,7 +50,7 @@
 |Just Enough Calculation|[1.12.2-3.2.7](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685)|242223| |`Just Enough Items (JEI)`のアドオン|
 |Just Enough Resources (JER)|[1.12.2-0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)|240630| |`Just Enough Items (JEI)`のアドオン|
 |LagGoggles|[1.12.2-5.8-132](https://www.curseforge.com/minecraft/mc-mods/laggoggles/files/2947622)|283525| | |
-|McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files)|260599| | |
+|McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files/2593767)|260599| | |
 |Mekanism|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism/files/2835175)|268560| | |
 |Mekanism Generators|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)|268566| |`Mekanism`のアドオン|
 |Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| |`Mekanism`のアドオン|
