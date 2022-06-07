@@ -9,7 +9,8 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-葉っぱをすぐ消すもっも
+葉っぱをすぐ消すもっも。<br<
+マルチプレイの場合なら、サーバー側のみの導入でもプレイ可能。
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
