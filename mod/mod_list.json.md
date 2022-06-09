@@ -29,7 +29,7 @@
         "name": "Sakura",
         "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": "1.0.8-1.12.2+flavored.ksrg.4",
+        "fileId": null,
         "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
         "side": ""
     }
