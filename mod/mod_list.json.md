@@ -39,4 +39,4 @@
 ## 仕様（見る必要性はない）
 1. `"name"`の値は無視される。
 2. `"directUrl"`が`null`でない場合は他の要素は無視される。
-3. `"modId"`、`fileId`、`"mcVersion"`をもとにCurseForgeAPIよりファイルのデータを取得する
+3. `"modId"`、`"fileId"`、`"mcVersion"`をもとにCurseForgeAPIよりファイルのデータを取得する
