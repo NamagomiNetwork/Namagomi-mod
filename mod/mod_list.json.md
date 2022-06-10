@@ -6,11 +6,11 @@
 ## 書き方
 |key|type|description|
 |:---|:---|:---|
-|name|`string \| null`|mod名のメモ書き|
-|modId|`string \| null`|projectIdとも言う|
+|name|`string?`|mod名のメモ書き|
+|modId|`string?`|projectIdとも言う|
 |mcVersion|`string`|Minecraftのバージョン|
-|fileId|`string \| null`|fileId。ない場合は最新版が指定される|
-|directUrl|`string \| null`|curseforge以外の場所にある場合はここに直リンクを記入|
+|fileId|`string?`|fileId。ない場合は最新版が指定される|
+|directUrl|`string?`|curseforge以外の場所にある場合はここに直リンクを記入|
 |side|`"CLIENT" \| "SERVER" \| ""`|クライアントmodは`"CLIENT"`、サーバー側modは`"SERVER"`、どっちもだったら`""`|
 
 
@@ -22,14 +22,11 @@
         "modId": "268560",
         "mcVersion": "1.12.2",
         "fileId": "2835175",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Sakura",
-        "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": null,
         "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
         "side": ""
     }
