@@ -6,10 +6,10 @@
 - LICENCE: MIT License
 - Project ID: 74924
 - 前提mod: N/A
-- 依存mod: Tinkers Construct
+- 依存mod: Tinkers' Construct
 
 ## このもっもは何をするんですか？
-Tinkers Constructの前提もっも
+Tinkers' Constructの前提もっも
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/mantle/
