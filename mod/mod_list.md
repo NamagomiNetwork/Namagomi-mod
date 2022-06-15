@@ -12,6 +12,7 @@
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
 |AppleSkin|[1.12-1.0.14](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247)|248787| | |
+|Applied Energistics 2|[rv6-stable-7](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063)|223794| | |
 |Aroma1997Core|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2676866)|223735| |`Aroma1997s Dimensional World`の前提|
 |Aroma1997s Dimensional World|[1.12.2-2.0.0.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2672438)|60092| | |
 |AutoRegLib|[1.3-32](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)|250363| |`Morph-o-Tool`・`Quark`の前提|
@@ -25,12 +26,14 @@
 |Clumps|[3.1.2](https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198)|256717| | |
 |CodeChicken Lib 1.8.+|[1.12.2-3.2.3.358](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848)|242818| |`Avaritia 1.1x`の前提|
 |Common Capabilities|[1.12.2-2.4.8](https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3053017)|247007| |`Integrated Dynamics`・`Integrated Tunnels`の前提|
+|Construct's Armory|[1.12.2-1.2.5.10](https://www.curseforge.com/minecraft/mc-mods/constructs-armory/files)|287683| |`Tinkers' Construct`のアドオン|
 |Compact Machines|[1.12.2-3.0.18-b278](https://www.curseforge.com/minecraft/mc-mods/compact-machines/files/2707509)|224218| | |
 |Cooking for Blockheads|[1.12.2-6.5.0](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2862651)|231484| | |
 |CraftTweaker|[1.12-4.1.20.675](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/3784010)|239197| | |
 |Cucumber Library|[1.12.2-1.1.3](https://www.curseforge.com/minecraft/mc-mods/cucumber/files/2645867)|272335| |`Mystical Agriculture`の前提|
 |Cyclic|[1.12.2-1.20.12](https://www.curseforge.com/minecraft/mc-mods/cyclic/files/3722420)|239286| | |
 |Cyclops Core|[1.12.2-1.6.7](https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/3159497)|232758| |`Integrated Dynamics`・`Integrated Tunnels`の前提|
+|Environmental Tech|[1.12.2-2.0.20.1](https://www.curseforge.com/minecraft/mc-mods/environmental-tech/files/2691536)|245453| | |
 |Extra Utilities 2|[1.12-1.9.9](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)|225561| | |
 |Farming for Blockheads|[1.12.2-3.1.28](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/files/2733508)|261924| | |
 |FastFurnace|[1.12.2-1.3.1](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/2706111)|299540| | |
@@ -50,6 +53,7 @@
 |Just Enough Calculation|[1.12.2-3.2.7](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685)|242223| |`Just Enough Items (JEI)`のアドオン|
 |Just Enough Resources (JER)|[1.12.2-0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)|240630| |`Just Enough Items (JEI)`のアドオン|
 |LagGoggles|[1.12.2-5.8-132](https://www.curseforge.com/minecraft/mc-mods/laggoggles/files/2947622)|283525| | |
+|Mantle|[1.12-1.3.3.55](https://www.curseforge.com/minecraft/mc-mods/mantle/files/2713386)|74924| |`Tinkers' Construct`の前提|
 |McAssistant|[1.12.2-0.1d](https://www.curseforge.com/minecraft/mc-mods/mcassistant/files/2593767)|260599| | |
 |Mekanism|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism/files/2835175)|268560| | |
 |Mekanism Generators|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)|268566| |`Mekanism`のアドオン|
@@ -60,11 +64,11 @@
 |Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |`TofuCraftReload`の前提|
 |Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| |`Mystical Agriculture`のアドオン|
 |Mystical Agriculture|[1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2704562)|246640| | |
+|NetherPortalFix|[1.12.1-5.3.17](https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files/2612052)|241160| | |
 |OpenBlocks|[1.12.2-1.8.1](https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056)|228816| | |
 |OpenModsLib|[1.12.2-0.12.2](https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)|228815| |`OpenBlocks`の前提|
 |Pam's HarvestCraft|[1.12.2zg](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2904825)|221857| | |
 |Quark|[r1.6-179](https://www.curseforge.com/minecraft/mc-mods/quark/files/2924091)|243121| | |
-|Refined Storage|[1.6.16](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2940914)|243076| | |
 |Sakura|[1.0.8-1.12.2+flavored.ksrg.4](https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar)|N/A| |[本家](https://www.curseforge.com/minecraft/mc-mods/sakura/files/3254753)からのフォーク|
 |Shadowfacts' Forgelin|[1.8.3](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2727070)|248453| |`Tesla Core Lib`の前提|
 |SlashBlade|[mc1.12-r33](https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993)|241596| | |
@@ -73,12 +77,13 @@
 |StorageDrawers|[1.12.2-5.4.2](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2952606)|223852| | |
 |Tesla Core Lib|[1.0.18.28](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/3438487)|254602| |`Industrial Foregoing`の前提|
 |TickCentral|[3.2](https://www.curseforge.com/minecraft/mc-mods/tickcentral/files/3140670)|377201| |`LagGoggles`の前提|
-|Tinkers Construct|[1.12.2-2.13.0.183](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2902483)|74072| | |
-|Mantle|[1.12-1.3.3.55](https://www.curseforge.com/minecraft/mc-mods/mantle/files/2713386)|74924| |`Tinkers Construct`の前提|
+|Tinkers' Construct|[1.12.2-2.13.0.183](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2902483)|74072| | |
 |TofuCraftReload|[0.1.0.9](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload/files/3115668)|317469| | |
 |Unloader|[1.2.0](https://www.curseforge.com/minecraft/mc-mods/unloader/files/2572528)|286230| | |
+|ValkyrieLib|[1.12.2-2.0.20.1](https://www.curseforge.com/minecraft/mc-mods/valkyrielib/files/2691542)|245480| |`Environmental Tech`の前提|
 |WanionLib|[1.12.2-2.9](https://www.curseforge.com/minecraft/mc-mods/wanionlib/files/3597087)|253043| |`Avaritiaddons`の前提|
 |Wawla - What Are We Looking At|[1.12.2-2.6.275](https://www.curseforge.com/minecraft/mc-mods/wawla/files/2916368)|224712| |`Hwyla`のアドオン|
+|xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)|[8.0.5](https://www.curseforge.com/minecraft/mc-mods/plusticminusbad/files/3648592)|376903| |`Tinkers' Construct`のアドオン (※開発中止された`PlusTiC`のフォーク)|
 |Yet Another Recipe Conflict Fixer (YARCF)|[v0.14](https://www.curseforge.com/minecraft/mc-mods/yarcf/files/3310627)|482566| | |
 
 ## サーバーだけのもっも！
