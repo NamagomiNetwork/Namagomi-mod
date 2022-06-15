@@ -541,8 +541,9 @@
         "side": ""
     },
     {
+        "name": "xaero-map-null-potion",
         "mcVersion": "1.12.2",
-        "fileId": "1.0.2",
+        "directUrl": "https://github.com/KisaragiEffective/xaero-map-null-potion/releases/download/1.0.2/xaero-map-null-potion-1.0.2.jar",
         "side": "CLIENT"
     },
     {
