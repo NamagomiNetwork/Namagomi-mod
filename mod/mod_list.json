@@ -450,13 +450,6 @@
         "side": "CLIENT"
     },
     {
-        "name": "Refined Storage",
-        "modId": "243076",
-        "mcVersion": "1.12.2",
-        "fileId": "2940914",
-        "side": ""
-    },
-    {
         "name": "Sakura",
         "mcVersion": "1.12.2",
         "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
