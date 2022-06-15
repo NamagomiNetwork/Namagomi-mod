@@ -13,4 +13,5 @@ Tinkers' Constructのアドオン。<br>
 開発中止された[PlusTiC](https://github.com/Landmaster/PlusTiC)の改良版。
 
 ## 参考リンク
-https://www.curseforge.com/minecraft/mc-mods/plusticminusbad
+https://www.curseforge.com/minecraft/mc-mods/plusticminusbad<br>
+https://github.com/sksf3734/for-desc/blob/main/PlusTiC/plustic.md
