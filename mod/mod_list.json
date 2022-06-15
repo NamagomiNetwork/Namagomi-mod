@@ -4,7 +4,6 @@
         "modId": "248787",
         "mcVersion": "1.12.2",
         "fileId": "2987247",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -12,7 +11,6 @@
         "modId": "223735",
         "mcVersion": "1.12.2",
         "fileId": "2676866",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -20,7 +18,6 @@
         "modId": "60092",
         "mcVersion": "1.12.2",
         "fileId": "2672438",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -28,7 +25,6 @@
         "modId": "250363",
         "mcVersion": "1.12.2",
         "fileId": "2746011",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -36,7 +32,6 @@
         "modId": "261348",
         "mcVersion": "1.12.2",
         "fileId": "3143349",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -44,7 +39,6 @@
         "modId": "248873",
         "mcVersion": "1.12.2",
         "fileId": "3662188",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -52,15 +46,12 @@
         "modId": "416599",
         "mcVersion": "1.12.2",
         "fileId": "3097230",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Bad Wither No Cookie - Reloaded",
         "modId": "261251",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -68,7 +59,6 @@
         "modId": "227083",
         "mcVersion": "1.12.2",
         "fileId": "2518667",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -76,7 +66,6 @@
         "modId": "223951",
         "mcVersion": "1.12.2",
         "fileId": "2532880",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -84,7 +73,6 @@
         "modId": "229876",
         "mcVersion": "1.12.2",
         "fileId": "2483393",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -92,7 +80,6 @@
         "modId": "230497",
         "mcVersion": "1.12.2",
         "fileId": "2450900",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -100,7 +87,6 @@
         "modId": "256717",
         "mcVersion": "1.12.2",
         "fileId": "2666198",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -108,7 +94,6 @@
         "modId": "242818",
         "mcVersion": "1.12.2",
         "fileId": "2779848",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -116,7 +101,6 @@
         "modId": "247007",
         "mcVersion": "1.12.2",
         "fileId": "3053017",
-        "directUrl": null,
         "side": ""
         
     },
@@ -125,15 +109,12 @@
         "modId": "224218",
         "mcVersion": "1.12.2",
         "fileId": "2707509",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Controlling",
         "modId": "250398",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -141,7 +122,6 @@
         "modId": "231484",
         "mcVersion": "1.12.2",
         "fileId": "2862651",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -149,7 +129,6 @@
         "modId": "239197",
         "mcVersion": "1.12.2",
         "fileId": "3784010",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -157,7 +136,6 @@
         "modId": "272335",
         "mcVersion": "1.12.2",
         "fileId": "2645867",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -165,7 +143,6 @@
         "modId": "239286",
         "mcVersion": "1.12.2",
         "fileId": "3722420",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -173,15 +150,12 @@
         "modId": "232758",
         "mcVersion": "1.12.2",
         "fileId": "3159497",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "ExtendPolyphonyLimit",
         "modId": "278844",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -189,7 +163,6 @@
         "modId": "225561",
         "mcVersion": "1.12.2",
         "fileId": "2678374",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -197,7 +170,6 @@
         "modId": "261924",
         "mcVersion": "1.12.2",
         "fileId": "2733508",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -205,7 +177,6 @@
         "modId": "299540",
         "mcVersion": "1.12.2",
         "fileId": "2706111",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -213,15 +184,12 @@
         "modId": "230976",
         "mcVersion": "1.12.2",
         "fileId": "2463272",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "FPS Reducer",
         "modId": "280294",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -229,7 +197,6 @@
         "modId": "386134",
         "mcVersion": "1.12.2",
         "fileId": "3078750",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -237,7 +204,6 @@
         "modId": "356646",
         "mcVersion": "1.12.2",
         "fileId": "3168863",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -245,7 +211,6 @@
         "modId": "253449",
         "mcVersion": "1.12.2",
         "fileId": "2568751",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -253,7 +218,6 @@
         "modId": "231951",
         "mcVersion": "1.12.2",
         "fileId": "2974106",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -261,7 +225,6 @@
         "modId": "266515",
         "mcVersion": "1.12.2",
         "fileId": "2745321",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -269,7 +232,6 @@
         "modId": "236307",
         "mcVersion": "1.12.2",
         "fileId": "3159505",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -277,7 +239,6 @@
         "modId": "251389",
         "mcVersion": "1.12.2",
         "fileId": "3159511",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -285,15 +246,12 @@
         "modId": "277938",
         "mcVersion": "1.12.2",
         "fileId": "3200529",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Inventory Tweaks",
         "modId": "223094",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -301,7 +259,6 @@
         "modId": "228756",
         "mcVersion": "1.12.2",
         "fileId": "2747935",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -309,7 +266,6 @@
         "modId": "265917",
         "mcVersion": "1.12.2",
         "fileId": "2951731",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -317,7 +273,6 @@
         "modId": "32274",
         "mcVersion": "1.12.2",
         "fileId": "2916002",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -325,7 +280,6 @@
         "modId": "238222",
         "mcVersion": "1.12.2",
         "fileId": "3043174",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -333,7 +287,6 @@
         "modId": "242223",
         "mcVersion": "1.12.2",
         "fileId": "3524685",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -341,7 +294,6 @@
         "modId": "240630",
         "mcVersion": "1.12.2",
         "fileId": "2728585",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -349,7 +301,6 @@
         "modId": "283525",
         "mcVersion": "1.12.2",
         "fileId": "2947622",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -357,7 +308,6 @@
         "modId": "260599",
         "mcVersion": "1.12.2",
         "fileId": "2593767",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -365,7 +315,6 @@
         "modId": "268560",
         "mcVersion": "1.12.2",
         "fileId": "2835175",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -373,7 +322,6 @@
         "modId": "268566",
         "mcVersion": "1.12.2",
         "fileId": "2835177",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -381,7 +329,6 @@
         "modId": "268567",
         "mcVersion": "1.12.2",
         "fileId": "2835178",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -389,7 +336,6 @@
         "modId": "245287",
         "mcVersion": "1.12.2",
         "fileId": "2658176",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -397,7 +343,6 @@
         "modId": "69118",
         "mcVersion": "1.12.2",
         "fileId": "2664449",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -405,7 +350,6 @@
         "modId": "55438",
         "mcVersion": "1.12.2",
         "fileId": "2749993",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -413,7 +357,6 @@
         "modId": "368098",
         "mcVersion": "1.12.2",
         "fileId": "3254750",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -421,7 +364,6 @@
         "modId": "256247",
         "mcVersion": "1.12.2",
         "fileId": "2704832",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -429,15 +371,12 @@
         "modId": "246640",
         "mcVersion": "1.12.2",
         "fileId": "2704562",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Neat",
         "modId": "238372",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -445,7 +384,6 @@
         "modId": "228816",
         "mcVersion": "1.12.2",
         "fileId": "2699056",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -453,7 +391,6 @@
         "modId": "228815",
         "mcVersion": "1.12.2",
         "fileId": "2699055",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -461,7 +398,6 @@
         "modId": "221857",
         "mcVersion": "1.12.2",
         "fileId": "2904825",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -469,15 +405,12 @@
         "modId": "243121",
         "mcVersion": "1.12.2",
         "fileId": "2924091",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "ReAuth",
         "modId": "237701",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -485,14 +418,11 @@
         "modId": "243076",
         "mcVersion": "1.12.2",
         "fileId": "2940914",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Sakura",
-        "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": "1.0.8-1.12.2+flavored.ksrg.4",
         "directUrl": "https://github.com/KisaragiEffective/Sakura_mod/releases/download/1.0.8-1.12.2%2Bflavored.ksrg.4/Sakura-1.0.8-1.12.2+flavored.ksrg.4.jar",
         "side": ""
     },
@@ -501,15 +431,12 @@
         "modId": "248453",
         "mcVersion": "1.12.2",
         "fileId": "2727070",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "SignPicture",
         "modId": "250822",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -517,22 +444,17 @@
         "modId": "241596",
         "mcVersion": "1.12.2",
         "fileId": "3039993",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "SpawnChecker",
-        "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": null,
         "directUrl": "https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1",
         "side": "CLIENT"
     },
     {
         "name": "SpongeForge",
-        "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": "1.12.2-2838-7.4.7",
         "directUrl": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
         "side": "SERVER"
     },
@@ -541,14 +463,11 @@
         "modId": "247843",
         "mcVersion": "1.12.2",
         "fileId": "2511850",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "StorageBox",
-        "modId": null,
         "mcVersion": "1.12.2",
-        "fileId": "[1.12] [forge2413] mod_StorageBox_v3.2.0",
         "directUrl": "https://web.archive.org/web/20190716014402/http://forum.minecraftuser.jp/download/file.php?id=75930",
         "side": ""
     },
@@ -557,7 +476,6 @@
         "modId": "223852",
         "mcVersion": "1.12.2",
         "fileId": "2952606",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -565,7 +483,6 @@
         "modId": "254602",
         "mcVersion": "1.12.2",
         "fileId": "3438487",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -573,7 +490,6 @@
         "modId": "377201",
         "mcVersion": "1.12.2",
         "fileId": "3140670",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -581,7 +497,6 @@
         "modId": "74072",
         "mcVersion": "1.12.2",
         "fileId": "2902483",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -589,7 +504,6 @@
         "modId": "74924",
         "mcVersion": "1.12.2",
         "fileId": "2713386",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -597,7 +511,6 @@
         "modId": "317469",
         "mcVersion": "1.12.2",
         "fileId": "3115668",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -605,15 +518,12 @@
         "modId": "286230",
         "mcVersion": "1.12.2",
         "fileId": "2572528",
-        "directUrl": null,
         "side": ""
     },
     {
         "name": "Waila Harvestability",
         "modId": "79287",
         "mcVersion": "1.12.2",
-        "fileId": null,
-        "directUrl": null,
         "side": "CLIENT"
     },
     {
@@ -621,7 +531,6 @@
         "modId": "253043",
         "mcVersion": "1.12.2",
         "fileId": "3597087",
-        "directUrl": null,
         "side": ""
     },
     {
@@ -629,15 +538,11 @@
         "modId": "224712",
         "mcVersion": "1.12.2",
         "fileId": "2916368",
-        "directUrl": null,
         "side": ""
     },
     {
-        "name": "xaero-map-null-potion",
-        "modId": null,
         "mcVersion": "1.12.2",
         "fileId": "1.0.2",
-        "directUrl": "https://github.com/KisaragiEffective/xaero-map-null-potion/releases/download/1.0.2/xaero-map-null-potion-1.0.2.jar",
         "side": "CLIENT"
     },
     {
@@ -645,7 +550,6 @@
         "modId": "263420",
         "mcVersion": "1.12.2",
         "fileId": "3819340",
-        "directUrl": null,
         "side": "SERVER"
     },
     {
@@ -653,7 +557,6 @@
         "modId": "317780",
         "mcVersion": "1.12.2",
         "fileId": "3819359",
-        "directUrl": null,
         "side": "SERVER"
     },
     {
@@ -661,7 +564,6 @@
         "modId": "482566",
         "mcVersion": "1.12.2",
         "fileId": "3310627",
-        "directUrl": null,
         "side": ""
     }
 ]
