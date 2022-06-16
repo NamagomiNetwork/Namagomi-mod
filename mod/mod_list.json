@@ -7,6 +7,13 @@
         "side": ""
     },
     {
+        "name": "Applied Energistics 2",
+        "modId": "223794",
+        "mcVersion": "1.12.2",
+        "fileId": "2747063",
+        "side": ""
+    },
+    {
         "name": "Aroma1997Core",
         "modId": "223735",
         "mcVersion": "1.12.2",
@@ -105,6 +112,14 @@
         
     },
     {
+        "name": "Construct's Armory",
+        "modId": "287683",
+        "mcVersion": "1.12.2",
+        "fileId": "3174535",
+        "side": ""
+        
+    },
+    {
         "name": "Compact Machines",
         "modId": "224218",
         "mcVersion": "1.12.2",
@@ -157,6 +172,13 @@
         "modId": "278844",
         "mcVersion": "1.12.2",
         "side": "CLIENT"
+    },
+    {
+        "name": "Environmental Tech",
+        "modId": "245453",
+        "mcVersion": "1.12.2",
+        "fileId": "2691536",
+        "side": ""
     },
     {
         "name": "Extra Utilities 2",
@@ -304,6 +326,13 @@
         "side": ""
     },
     {
+        "name": "Mantle",
+        "modId": "74924",
+        "mcVersion": "1.12.2",
+        "fileId": "2713386",
+        "side": ""
+    },
+    {
         "name": "McAssistant",
         "modId": "260599",
         "mcVersion": "1.12.2",
@@ -374,6 +403,13 @@
         "side": ""
     },
     {
+        "name": "NetherPortalFix",
+        "modId": "241160",
+        "mcVersion": "1.12.2",
+        "fileId": "2612052",
+        "side": ""
+    },
+    {
         "name": "Neat",
         "modId": "238372",
         "mcVersion": "1.12.2",
@@ -412,13 +448,6 @@
         "modId": "237701",
         "mcVersion": "1.12.2",
         "side": "CLIENT"
-    },
-    {
-        "name": "Refined Storage",
-        "modId": "243076",
-        "mcVersion": "1.12.2",
-        "fileId": "2940914",
-        "side": ""
     },
     {
         "name": "Sakura",
@@ -493,17 +522,10 @@
         "side": ""
     },
     {
-        "name": "Tinkers Construct",
+        "name": "Tinkers' Construct",
         "modId": "74072",
         "mcVersion": "1.12.2",
         "fileId": "2902483",
-        "side": ""
-    },
-    {
-        "name": "Mantle",
-        "modId": "74924",
-        "mcVersion": "1.12.2",
-        "fileId": "2713386",
         "side": ""
     },
     {
@@ -518,6 +540,13 @@
         "modId": "286230",
         "mcVersion": "1.12.2",
         "fileId": "2572528",
+        "side": ""
+    },
+    {
+        "name": "ValkyrieLib",
+        "modId": "245480",
+        "mcVersion": "1.12.2",
+        "fileId": "2691542",
         "side": ""
     },
     {
@@ -538,6 +567,13 @@
         "modId": "224712",
         "mcVersion": "1.12.2",
         "fileId": "2916368",
+        "side": ""
+    },
+    {
+        "name": "xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)",
+        "modId": "376903",
+        "mcVersion": "1.12.2",
+        "fileId": "3648592",
         "side": ""
     },
     {
