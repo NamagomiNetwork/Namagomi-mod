@@ -59,6 +59,7 @@
         "name": "Bad Wither No Cookie - Reloaded",
         "modId": "261251",
         "mcVersion": "1.12.2",
+        "fileId": "3045651",
         "side": "CLIENT"
     },
     {
@@ -130,6 +131,7 @@
         "name": "Controlling",
         "modId": "250398",
         "mcVersion": "1.12.2",
+        "fileId": "3025548",
         "side": "CLIENT"
     },
     {
@@ -171,6 +173,7 @@
         "name": "ExtendPolyphonyLimit",
         "modId": "278844",
         "mcVersion": "1.12.2",
+        "fileId": "2484408",
         "side": "CLIENT"
     },
     {
@@ -212,6 +215,7 @@
         "name": "FPS Reducer",
         "modId": "280294",
         "mcVersion": "1.12.2",
+        "fileId": "3362160",
         "side": "CLIENT"
     },
     {
@@ -274,6 +278,7 @@
         "name": "Inventory Tweaks",
         "modId": "223094",
         "mcVersion": "1.12.2",
+        "fileId": "2482481",
         "side": "CLIENT"
     },
     {
@@ -413,6 +418,7 @@
         "name": "Neat",
         "modId": "238372",
         "mcVersion": "1.12.2",
+        "fileId": "2595310",
         "side": "CLIENT"
     },
     {
@@ -447,6 +453,7 @@
         "name": "ReAuth",
         "modId": "237701",
         "mcVersion": "1.12.2",
+        "fileId": "3826315",
         "side": "CLIENT"
     },
     {
@@ -466,6 +473,7 @@
         "name": "SignPicture",
         "modId": "250822",
         "mcVersion": "1.12.2",
+        "fileId": "2464981",
         "side": "CLIENT"
     },
     {
@@ -553,6 +561,7 @@
         "name": "Waila Harvestability",
         "modId": "79287",
         "mcVersion": "1.12.2",
+        "fileId": "2481605",
         "side": "CLIENT"
     },
     {
