@@ -92,8 +92,8 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
-|Xaero's Minimap|[v22.9.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3819340)|263420| | |
-|Xaero's World Map|[v1.23.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3819359)|317780| | |
+|Xaero's Minimap|[v22.13.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3937622)|263420| | |
+|Xaero's World Map|[v1.26.5 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3937642)|317780| | |
 
 ## クライアントだけのもっも！
 
