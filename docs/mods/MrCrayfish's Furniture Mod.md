@@ -1,8 +1,8 @@
 # mod詳細
 
 - もっも名: MrCrayfish's Furniture Mod
-- もっものバージョン: 6.3.1-1.12.2
-- DLリンク: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993
+- もっものバージョン: 6.3.2-1.12.2
+- DLリンク: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/3865259
 - LICENCE: GNU GENERAL PUBLIC LICENSE
 - Project ID: 55438
 - 前提mod: N/A
