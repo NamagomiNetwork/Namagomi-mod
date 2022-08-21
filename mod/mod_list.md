@@ -92,7 +92,6 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
-|SpongeForge|[1.12.2-2838-7.4.7](https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar)|N/A|[docs](/docs/mods/SpongeForge.md)| |
 |Xaero's Minimap|[v22.9.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3819340)|263420| | |
 |Xaero's World Map|[v1.23.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3819359)|317780| | |
 
