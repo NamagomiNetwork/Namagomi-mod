@@ -490,12 +490,6 @@
         "side": "CLIENT"
     },
     {
-        "name": "SpongeForge",
-        "mcVersion": "1.12.2",
-        "directUrl": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
-        "side": "SERVER"
-    },
-    {
         "name": "Stacksize",
         "modId": "247843",
         "mcVersion": "1.12.2",
