@@ -60,7 +60,7 @@
 |Mekanism Tools|[1.12.2-9.8.3.390](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)|268567| |`Mekanism`のアドオン|
 |Morph-o-Tool|[1.2-21](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176)|245287| | |
 |Morpheus|[1.12.2-3.5.106](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449)|69118| | |
-|MrCrayfish's Furniture Mod|[6.3.1-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/2749993)|55438| | |
+|MrCrayfish's Furniture Mod|[6.3.2-1.12.2](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/3865259)|55438| | |
 |Mysterious Mountain Lib|[2.3.0](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib/files/3254750)|368098| |`TofuCraftReload`の前提|
 |Mystical Agradditions|[1.12.2-1.3.2](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2704832)|256247| |`Mystical Agriculture`のアドオン|
 |Mystical Agriculture|[1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2704562)|246640| | |
@@ -92,8 +92,8 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---|:---|
-|Xaero's Minimap|[v22.9.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3819340)|263420| | |
-|Xaero's World Map|[v1.23.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3819359)|317780| | |
+|Xaero's Minimap|[v22.13.2 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3937622)|263420| | |
+|Xaero's World Map|[v1.26.5 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3937642)|317780| | |
 
 ## クライアントだけのもっも！
 
