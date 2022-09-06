@@ -600,6 +600,12 @@
         "side": "SERVER"
     },
     {
+        "name": "SpongeForge",
+        "mcVersion": "1.12.2",
+        "directUrl": "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar",
+        "side": "SERVER"
+    },
+    {
         "name": "Yet Another Recipe Conflict Fixer (YARCF)",
         "modId": "482566",
         "mcVersion": "1.12.2",
