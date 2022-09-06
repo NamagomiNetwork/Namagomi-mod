@@ -94,6 +94,7 @@
 |:---|:---|:---|:---|:---|
 |Xaero's Minimap|[v22.14.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3967730)|263420| | |
 |Xaero's World Map|[v1.27.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3967757)|317780| | |
+|SpongeForge|[1.12.2-2838-7.4.7](https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar)|N/A| | |
 
 ## クライアントだけのもっも！
 
