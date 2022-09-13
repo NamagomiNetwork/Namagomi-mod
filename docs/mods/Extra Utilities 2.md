@@ -9,7 +9,7 @@
 - 依存mod: N/A
 
 ## このもっもは何をするんですか？
-各種アイテム類を追加。工業要素強め。
+各種便利なアイテム類やブロックを追加。エンドコンテンツのようなアイテムもある。
 
 ## 参考リンク
 https://minecraftjapan.miraheze.org/wiki/MOD解説/Extra_Utilities_2
