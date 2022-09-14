@@ -404,6 +404,11 @@
       "target": "white",
       "weight": 3,
       "id": "environmentaltech:mica"
+    },
+    {
+      "target": "black",
+      "weight": 10,
+      "id": "sakura:iron_sand"
     }
   ]
 }
