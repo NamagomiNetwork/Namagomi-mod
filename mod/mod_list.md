@@ -79,7 +79,7 @@
 |Tesla Core Lib|[1.0.18.28](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/3438487)|254602|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/Tesla%20Core%20Lib.md)|`Industrial Foregoing`の前提|
 |TickCentral|[3.2](https://www.curseforge.com/minecraft/mc-mods/tickcentral/files/3140670)|377201|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/TickCentral.md)|`LagGoggles`の前提|
 |Tinkers' Construct|[1.12.2-2.13.0.183](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2902483)|74072|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/Tinkers'%20Construct.md)| |
-|Tinker's SlashBlade|[1.1.0](https://www.curseforge.com/minecraft/mc-mods/tinkers-slashblade/files/3967763)|315371|詳細|`SlashBlade`のアドオン|
+|Tinker's SlashBlade|[1.1.0](https://www.curseforge.com/minecraft/mc-mods/tinkers-slashblade/files/3967763)|315371|詳細|`SlashBlade`・`Tinkers' Construct`のアドオン|
 |TofuCraftReload|[0.1.0.9](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload/files/3115668)|317469|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/TofuCraftReload.md)| |
 |Unloader|[1.2.0](https://www.curseforge.com/minecraft/mc-mods/unloader/files/2572528)|286230|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/Unloader.md)| |
 |ValkyrieLib|[1.12.2-2.0.20.1](https://www.curseforge.com/minecraft/mc-mods/valkyrielib/files/2691542)|245480|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/ValkyrieLib.md)|`Environmental Tech`の前提|
