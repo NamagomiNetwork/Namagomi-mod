@@ -6,7 +6,7 @@
 - LICENCE: MIT License
 - Project ID: 74072
 - 前提mod: Mantle
-- 依存mod: Construct's Armory, xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
+- 依存mod: Construct's Armory, Tinker's SlashBlade, xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
 
 ## このもっもは何をするんですか？
 さまざまな素材を組み合わせてツールをカスタマイズすることが可能なもっも
