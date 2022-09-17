@@ -6,10 +6,10 @@
 - LICENCE: MIT License
 - Project ID: 368098
 - 前提mod: N/A
-- 依存mod: TofuCraftReload
+- 依存mod: SlashBlade Japanese Addon Pack, Tinker's SlashBlade, TofuCraftReload
 
 ## このもっもは何をするんですか？
-TofuCraftReloadの前提
+SlashBlade Japanese Addon Pack・Tinker's SlashBlade・TofuCraftReloadの前提
 
 ## 参考リンク
 https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib
