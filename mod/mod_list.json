@@ -484,6 +484,13 @@
         "side": ""
     },
     {
+        "name": "SlashBlade Japanese Addon Pack",
+        "modId": "310187",
+        "mcVersion": "1.12.2",
+        "fileId": "3119004",
+        "side": ""
+    },
+    {
         "name": "SpawnChecker",
         "mcVersion": "1.12.2",
         "directUrl": "https://www.dropbox.com/sh/mlfsx6b3z5ek8wv/AACCf_0tDiPo8fd2rwa0CoEia/SpawnChecker/Minecraft_1.12.x/SpawnChecker-2.7.7.137.jar?dl=1",
@@ -528,6 +535,13 @@
         "modId": "74072",
         "mcVersion": "1.12.2",
         "fileId": "2902483",
+        "side": ""
+    },
+    {
+        "name": "Tinker's SlashBlade",
+        "modId": "315371",
+        "mcVersion": "1.12.2",
+        "fileId": "3967763",
         "side": ""
     },
     {

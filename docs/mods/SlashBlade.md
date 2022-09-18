@@ -6,7 +6,7 @@
 - LICENCE: [Custom License](https://www.curseforge.com/minecraft/mc-mods/slashblade/files/3039993)
 - Project ID: 241596
 - 前提mod: N/A
-- 依存mod: N/A
+- 依存mod: SlashBlade Japanese Addon Pack, Tinker's SlashBlade
 
 ## このもっもは何をするんですか？
 通称抜刀剣mod。なんかつよそう
