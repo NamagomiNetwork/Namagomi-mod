@@ -1,8 +1,8 @@
 # mod詳細
 
 - もっも名: Xaero's Minimap
-- もっものバージョン: v22.14.0 for Forge 1.12.2
-- DLリンク: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3967730
+- もっものバージョン: v22.15.0 for Forge 1.12.2
+- DLリンク: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4010396
 - LICENCE: All Rights Reserved
 - Project ID: 263420
 - 前提mod: N/A
