@@ -94,8 +94,8 @@
 
 |名前|バージョン|Project ID|docsFile|めも|
 |:---|:---|:---|:---:|:---|
-|Xaero's Minimap|[v22.14.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3967730)|263420|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/server/Xaero's%20Minimap.md)| |
-|Xaero's World Map|[v1.27.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3967757)|317780|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/server/Xaero's%20World%20Map.md)| |
+|Xaero's Minimap|[v22.15.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4010396)|263420|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/server/Xaero's%20Minimap.md)| |
+|Xaero's World Map|[v1.28.0 for Forge 1.12.2](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4010409)|317780|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/server/Xaero's%20World%20Map.md)| |
 |SpongeForge|[1.12.2-2838-7.4.7](https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar)|N/A|[詳細](https://github.com/NamagomiNetwork/Namagomi-mod/blob/main/docs/mods/server/SpongeForge.md)| |
 
 ## クライアントだけのもっも！
